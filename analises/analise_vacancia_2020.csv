@@ -1,0 +1,5218 @@
+Nome_Imovel,Percentual_Vacancia,Percentual_Inadimplencia
+#BPA 87 81,,
+#ITU 929 101,,
+#JAU 585 62,,
+#JML 880 22,,
+#RP 296 907,,
+*ACL 548 63,,
+*ACO 422 142,,
+*AG 55 91,,
+*AGU 461 141,,
+*AIB 16 413,,
+*AIM 2090101,,
+*AL 1302 52,,
+*ALV 735 41,,
+*ANA 1236 51,,
+*ANG 1106119,,
+*APRA 433913,,
+*ARE 394 701,,
+*ASS 254 202,,
+*ATI 210 404,,
+*ATP 5661204,,
+*BAR 665 101,,
+*BARI 681804,,
+*BART 786 91,,
+*BCO 11 303,,
+*BERC 295 16,,
+*BLIS 106 40,,
+*BPO 152 504,,
+*BV 592 95,,
+*CA 785 21,,
+*CBAE 141 40,,
+*CBE 26 1407,,
+*CGU 72 61,,
+*CJB 45 122,,
+*CLE 1254 10,,
+*CLE 1254 61,,
+*CMO 1062 71,,
+*CPC 256 24,,
+*CPRU 161 12,,
+*CUB 158 23,,
+*DAV 45 52,,
+*DCM 123 81,,
+*DCM 630 131,,
+*DESV 64 31,,
+*DJMA 1616 1,,
+*DMAR 72 504,,
+*DODZ 123 70,,
+*DRMDA 608 6,,
+*DRSO 48 42,,
+*DVG 336 92,,
+*DVL 1055 41,,
+*EES 373 901,,
+*EPI 3100106,,
+*FLP 235 503,,
+*FPI 718 61,,
+*FR 74 21,,
+*GDA 390 82,,
+*GDAN 48 252,,
+*GDIO 33 202,,
+*GDVO 315 63,,
+*GEP 121 703,,
+*GGM 8 1702,,
+*GIR 1540 81,,
+*GRA 422 172,,
+*HL 1459 101,,
+*HLAF 90 901,,
+*IGA 50 104,,
+*INHA 33 201,,
+*JBO 192 602,,
+*JML 20 1004,,
+*JOA 497 81,,
+*JOE 60 806,,
+*JRP 701 61,,
+*JUR 558 92,,
+*LDL 156 404,,
+*LOQ 244 805,,
+*LPM 76 102,,
+*LUI 355 34,,
+*MAR 181 41,,
+*MARA 339 83,,
+*MB 333 402,,
+*MOB 31 304,,
+*NAS 398 101,,
+*NLO 23 501,,
+*OH 19 302,,
+*PAS 191 72,,
+*PCC 74 22,,
+*PFR 142 172,,
+*PFR 87 101,,
+*PMA 181 103,,
+*PMO 251 102,,
+*QUA 746 54,,
+*QUIS 138 11,,
+*REB 1480 92,,
+*RFL 369 92,,
+*ROC 215 133,,
+*RP 905 23,,
+*RPM 757 14A,,
+*SAR 173 21,,
+*SER 634 12,,
+*SVER 70 402,,
+*TC 444 208,,
+*TCO 266 402,,
+*TMJ 21 102,,
+*TUPI 168 62,,
+*URA 18 52,,
+*URI 111 11,,
+*VPAT 389204,,
+- BR-101 - ZONA INDUSTRIAL,0.0,0.0
+-ARI 661 21,0.0,0.0
+-BPA 49 92,0.0,0.0
+-CAM 1497 71,0.0,0.0
+-CAM 541 142,0.0,0.0
+-DLE 609 61,0.0,0.0
+-FR 1329 101,0.0,0.0
+-INH 737 21,0.0,0.0
+-JCT 557 12,0.0,0.0
+-JML 1055 5,0.0,0.0
+02 unidades tipo bangalôs Hotel Resort Txai Terravista,,
+0305 - SUL,0.0,0.0
+0309 - SUL,0.0,0.0
+10456 - FAZENDA IMUNA,0.0,0.0
+1099 - FAZENDA LAGOA DO POÇO,0.0,0.0
+1100 - FAZENDA LAGOA DO POÇO,0.0,0.0
+1135 - FAZENDA ILHA GRANDE,0.0,0.0
+12 OUTUB,0.0,0.0
+12299 - GLEBA IND. A,0.0,0.0
+12300 - GLEBA IND. B,0.0,0.0
+12304 - GLEBA IND. C,0.0,0.0
+14 Bis,0.0,0.0
+14 unidades Tipo Villas no Hotel Resort  Txai Terravista.,,
+1580 - FAZENDA MARFIM,0.0,0.0
+169 - FAZENDA JOÃO DURO,0.0,0.0
+173073 - JABAQUARA,0.0,0.0
+19238 - ALVORADA,0.0,0.0
+1LED1003,,
+1LED1005,,
+1LED104,,
+1LED110,,
+1LED1101,,
+1LED1104,,
+1LED1106,,
+1LED1109,,
+1LED1204,,
+1LED1207,,
+1LED1211,,
+1LED1306,,
+1LED1311,,
+1LED1312,,
+1LED1401,,
+1LED1403,,
+1LED1406,,
+1LED1407,,
+1LED1410,,
+1LED1412,,
+1LED1504,,
+1LED1505,,
+1LED1507,,
+1LED1510,,
+1LED1511,,
+1LED1605,,
+1LED1606,,
+1LED1608,,
+1LED1611,,
+1LED1612,,
+1LED201,,
+1LED203,,
+1LED204,,
+1LED210,,
+1LED212,,
+1LED302,,
+1LED304,,
+1LED310,,
+1LED403,,
+1LED404,,
+1LED406,,
+1LED409,,
+1LED410,,
+1LED506,,
+1LED604,,
+1LED611,,
+1LED702,,
+1LED704,,
+1LED705,,
+1LED708,,
+1LED711,,
+1LED712,,
+1LED804,,
+1LED806,,
+1LED810,,
+1LED812,,
+1LED911,,
+2123 - FAZENDA ANGELIM,0.0,0.0
+2124 - FAZENDA ANGELIM,0.0,0.0
+2194 - FAZENDA ANGELIM,0.0,0.0
+2300 - FAZENDA VALE DO GRAMAME II,0.0,0.0
+2459 - FAZENDA COLIBRI I E II,0.0,0.0
+2466 - FAZENDA BICA E GUME,0.0,0.0
+2467 - FAZENDA RIACHO DO SALTO II,0.0,0.0
+2468 - FAZENDA RIACHO FUNDO(Faz. Riacho do Salto I),0.0,0.0
+2469 - FAZENDA RIACHO DO SALTO III,0.0,0.0
+2471 - FAZENDA JANGADA,0.0,0.0
+2472 - BELO HORIZONTE,0.0,0.0
+2474 - FAZENDA NOVO HORIZONTE,0.0,0.0
+2478 - FAZENDA VALE DO POPOCAS,0.0,0.0
+24° Andar do Edifício Castello Branco,0.0,0.0
+25% Imóvel - FABRICA DA FORD MOTORS DO BRASIL,,
+2810 - FAZENDA IBURA,0.0,0.0
+2LED1004,,
+2LED1008,,
+2LED1009,,
+2LED1010,,
+2LED105,,
+2LED106,,
+2LED1105,,
+2LED1106,,
+2LED1109,,
+2LED1203,,
+2LED1204,,
+2LED1205,,
+2LED1210,,
+2LED1211,,
+2LED1310,,
+2LED1311,,
+2LED1312,,
+2LED1408,,
+2LED1409,,
+2LED1410,,
+2LED1411,,
+2LED1505,,
+2LED1510,,
+2LED1512,,
+2LED1601,,
+2LED1602,,
+2LED1701,,
+2LED206,,
+2LED209,,
+2LED302,,
+2LED309,,
+2LED310,,
+2LED405,,
+2LED408,,
+2LED506,,
+2LED508,,
+2LED509,,
+2LED609,,
+2LED610,,
+2LED708,,
+2LED710,,
+2LED712,,
+2LED902,,
+2LED911,,
+2º Pavimento Minasbank,0.0,0.0
+3 Centros de Convenções no Hotel,,
+305 Sul,0.0,0.0
+306 - FAZENDA JOÃO MARQUES,0.0,0.0
+3107 - FAZENDA QUATI,0.0,0.0
+3380 - FAZENDA MUZUMBO I,0.0,0.0
+34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ,,
+36 - FAZENDA CAJUÁ I,0.0,0.0
+36353 - FAZENDA POPOCAS,0.0,0.0
+36354 - FAZENDA SÃO PEDRO,0.0,0.0
+36355 - FAZENDA JAGUAREMA DO MEIO,0.0,0.0
+36356 - FAZENDA SANTA TEREZINHA,0.0,0.0
+365 - FAZENDA BREJEIRO,0.0,0.0
+36791 - FAZENDA IBURA,0.0,0.0
+36792 - FAZENDA NSA SRA DOS PRAZERES I,0.0,0.0
+3LED104,,
+3LED1102,,
+3LED1103,,
+3LED1110,,
+3LED1111,,
+3LED1210,,
+3LED1211,,
+3LED1511,,
+3LED1610,,
+3LED1710,,
+3LED203,,
+3LED204,,
+3LED212,,
+3LED510,,
+3LED602,,
+3LED604,,
+3LED607,,
+3LED608,,
+3LED609,,
+3LED610,,
+3LED707,,
+3LED709,,
+3LED710,,
+41 - FAZENDA JAGUARIBE E SÃO FRANCISCO,0.0,0.0
+4182 - FAZENDA TORRE,0.0,0.0
+4184 - FAZENDA MANGUEIRA,0.0,0.0
+431 - FAZENDA PARAÍSO SÃO MIGUEL,0.0,0.0
+4372 - FAZENDA MANGUEIRA E OUTRAS,0.0,0.0
+4377 - FAZENDA ILHA DO MARANHÃO,0.0,0.0
+4378 - FAZENDA SÃO ROQUE E OUTRAS,0.0,0.0
+4381 - FAZENDA NASCENÇA DO PIQUIRI,0.0,0.0
+451 - FAZENDA MUNDO NOVO I,0.0,0.0
+46210 - FAZENDA ALVORADA CABOCLO,0.0,0.0
+466 - FAZENDA ARAGUAIA III,0.0,0.0
+4712 - FAZENDA BONFIM,0.0,0.0
+483 - FAZENDA VALE DO MUMBABA,0.0,0.0
+4863 - FAZENDA NSA SRA DO CARMO E OUTRAS,0.0,0.0
+4868 - FAZENDA CAVALEIRO E OUTRAS,0.0,0.0
+487 - FAZENDA CAMPINA BELA,0.0,0.0
+504 - FAZENDA PRIMEIRO RIO,0.0,0.0
+51 Unidades  Master no Hotel,,
+5124 - FAZENDA MARACUJÁ,0.0,0.0
+523 - FAZENDA MUNDO NOVO I,0.0,0.0
+54844 - FAZENDA IBURA,0.0,0.0
+5680 - SÍTIO OU FAZENDA MARACUJÁ,0.0,0.0
+594 - SÍTIO MAXIXE,0.0,0.0
+6.078 - FAZENDA CAPUABA/URUCUTUBA,0.0,0.0
+6.293 - FAZENDA DIAMANTINA,0.0,0.0
+636 - FAZENDA SANTA MARIA,0.0,0.0
+6386 - FAZENDA MARACUJÁ,0.0,0.0
+64 Unidades Standard no Hotel,,
+6644 - GLEBA PONTAL,0.0,0.0
+6645 - GLEBA RIBEIRÃOZINHO,0.0,0.0
+6646 - HONDA,0.0,0.0
+6647 - GLEBA VACARIA,0.0,0.0
+6676 - FAZENDA LARANJEIRAS DOS GOMES (PARTE A),0.0,0.0
+7187 - GLEBA SANTA CRUZ,0.0,0.0
+7188 - GLEBA CERCADO,0.0,0.0
+7189 - GLEBA CAPEVA,0.0,0.0
+7699 - GLEBA PONTE VELHA,0.0,0.0
+7713 - CAPRICHO,0.0,0.0
+7817 - FAZENDA ILHA,0.0,0.0
+8244 - BARREIRO (SASOKA/JACARÉ),0.0,0.0
+841 - FAZENDA MIRANDA,0.0,0.0
+8464 - FAZENDA SÃO JOSÉ,0.0,0.0
+8565 - LOTEAMENTO BONFIM,0.0,0.0
+893 - FAZENDA LIMOAL E OUTRAS,0.0,0.0
+95 - FAZENDA CAJUÁ II,0.0,0.0
+9532 - GLEBA ALVORADA,0.0,0.0
+9533 - GLEBA MUTUM,0.0,0.0
+9534 - GLEBA PONTE NOVA,0.0,0.0
+99 - FAZENDA ARAGUAIA II,0.0,0.0
+AAP 566 907,,
+AARA 1 602,,
+AAZ 1537 123,,
+AB 141 72,,
+AB 169 62,,
+AB 192 81,,
+AB 489 32,,
+ABI 1363 44,,
+ABI 951 12,,
+ABS,0.19,0.04
+ACARAÚ 62,0.0,0.0
+ADEL1002,,
+ADEL1004,,
+ADEL1101,,
+ADEL1102,,
+ADEL1201,,
+ADEL1203,,
+ADEL_101,,
+ADEL_102,,
+ADEL_103,,
+ADEL_104,,
+ADEL_201,,
+ADEL_204,,
+ADEL_303,,
+ADEL_304,,
+ADEL_503,,
+ADEL_601,,
+ADEL_701,,
+ADEL_702,,
+ADEL_802,,
+ADEL_803,,
+ADEL_804,,
+ADEL_901,,
+ADEL_902,,
+ADEL_904,,
+ADEL_G1,,
+ADEL_G10,,
+ADEL_G11,,
+ADEL_G12,,
+ADEL_G13,,
+ADEL_G14,,
+ADEL_G2,,
+ADEL_G3,,
+ADEL_G4,,
+ADEL_G5,,
+ADEL_G6,,
+ADEL_G7,,
+ADEL_G8,,
+ADEL_G9,,
+ADE_202,,
+ADOL1,0.0,0.0
+AEL 240 22,,
+AEROPORTO,0.0,0.0
+AETHRA,0.0,0.0
+AF 109 12,,
+AF 109 71,,
+AF 205 42,,
+AFE 61 41,,
+AFO 177 101,,
+AG CAXIAS SUL,0.0,0.0
+AG LEBLON,0.0,0.0
+AG PASSO FUNDO,0.0,0.0
+AG. AFONSO PENA,0.0,0.0
+AG. ALDEOTA,0.0,0.0
+AG. ANA ROSA,0.0,0.0
+AG. ARACATUBA,0.0,0.0
+AG. ASA NORTE 504,0.0,0.0
+AG. ASA SUL 507,0.0,0.0
+AG. BAIRRO BOM RETIRO,0.0,0.0
+AG. BONFIM,0.0,0.0
+AG. BRAS,0.0,0.0
+AG. BROOKLIN PAULISTA,0.0,0.0
+AG. CAMPINAS,0.0,0.0
+AG. CAMPOS ELISEOS,0.0,0.0
+AG. CAMPOS GOYTACAZES,0.0,0.0
+AG. CARIJOS,0.0,0.0
+AG. CASA VERDE,0.0,0.0
+AG. CATEDRAL-SOROCABA,0.0,0.0
+AG. CENTRO - SOROCABA(SP),0.0,0.0
+AG. CINELANDIA,0.0,0.0
+AG. CONJUNTO NACIONAL,0.0,0.0
+AG. DUQUE DE CAXIAS,0.0,0.0
+AG. FLORIANOPOLIS,0.0,0.0
+AG. FREGUESIA DO O,0.0,0.0
+AG. GENERAL VALADAO,0.0,0.0
+AG. IPIRANGA-SP,0.0,0.0
+AG. JACAREPAGUA,0.0,0.0
+AG. JUIZ DE FORA,0.0,0.0
+AG. MANAUS,0.0,0.0
+AG. MARINGA,0.0,0.0
+AG. MOEMA,0.0,0.0
+AG. NITEROI (RJ),0.0,0.0
+AG. NOSSA SENHORA LAPA,0.0,0.0
+AG. PARAISO,0.0,0.0
+AG. PC.RUI BARBOSA-BAURU,0.0,0.0
+AG. PCA XV NOVEMBRO/BESC,0.0,0.0
+AG. PENHA FRANCA,0.0,0.0
+AG. PINHEIROS,0.0,0.0
+AG. PONTA GROSSA,0.0,0.0
+AG. PRACA DA ARVORE,0.0,0.0
+AG. RIBEIRAO PRETO SP,0.0,0.0
+AG. SANTANA,0.0,0.0
+AG. SANTO AMARO PAULISTA,0.0,0.0
+AG. SAO JOSE DOS CAMPOS,0.0,0.0
+AG. SAO JOSE RIO PRETO SP,0.0,0.0
+AG. TAMOIOS BH,0.0,0.0
+AG. TIJUCA,0.0,0.0
+AG. TOLEDO,0.0,0.0
+AG. UBERLANDIA,0.0,0.0
+AG. VILA CARRAO (SP),0.0,0.0
+AG. ZONA SUL,0.0,0.0
+AG.BELEM-CENTRO(PA),0.0,0.0
+AG.BELO HORIZONTE,0.0,0.0
+AGO 26 105,,
+AGO 410 51,,
+AGU 921 131,,
+AHD 183 103,,
+AIC 491 171,,
+AIC 668 62,,
+AIM 1283 82,,
+AL 1020 33L,,
+ALA 336 61,,
+ALA 337 51,,
+ALB 1238 6A,,
+ALC 242 101,,
+ALC 51 102,,
+ALG 960 54,,
+ALL -CIR Complexo Intermodal de Rondonópolis,0.0,0.0
+ALLEGRO_86410,,
+ALLEGRO_86426,,
+ALLEGRO_86430,,
+ALLEGRO_86434,,
+ALONSO1,0.0,0.0
+ALONSO2,0.0,0.0
+"ALPHABURLEMARX LOTE A,B e C",,
+ALPHACASTELLO,,
+ALPHAVILLE,0.0,0.0
+ALPHAVILLE BAURU,,
+ALPHAVILLE NOVA ESPLANADA Nº 09 QUADRA S4,,
+ALPHAVILLE NOVA ESPLANADA Nº 12 QUADRA U4,,
+ALPHAVILLE NOVA ESPLANADA Nº 17 LOTE AB3,,
+ALTO DE PINHEIROS,0.0,0.0
+ALV 270 62,,
+ALV 735 41,,
+ALV 735 54,,
+ALV11400,0.75,0.0
+ALVES GUIMARÃES,,
+AL_1001B,,
+AL_1002B,,
+AL_1004B,,
+AL_1008B,,
+AL_101B,,
+AL_103B,,
+AL_105B,,
+AL_106BV,,
+AL_107B,,
+AL_107BV,,
+AL_107C,,
+AL_108B,,
+AL_108BV,,
+AL_109B,,
+AL_109BV,,
+AL_10BV,,
+AL_1101B,,
+AL_1102B,,
+AL_1102C,,
+AL_1104B,,
+AL_1104C,,
+AL_1106C,,
+AL_110B,,
+AL_111BV,,
+AL_112BV,,
+AL_113BV,,
+AL_114BV,,
+AL_115BV,,
+AL_116BV,,
+AL_117BV,,
+AL_118BV,,
+AL_119BV,,
+AL_11BV,,
+AL_1201B,,
+AL_1202B,,
+AL_1208B,,
+AL_120BV,,
+AL_1210B,,
+AL_121BV,,
+AL_122BV,,
+AL_123BV,,
+AL_124BV,,
+AL_125BV,,
+AL_126BV,,
+AL_127BV,,
+AL_128BV,,
+AL_129BV,,
+AL_12BV,,
+AL_130BV,,
+AL_131BV,,
+AL_132BV,,
+AL_133BV,,
+AL_134BV,,
+AL_137BV,,
+AL_138BV,,
+AL_139BV,,
+AL_13BV,,
+AL_140BV,,
+AL_141BV,,
+AL_142BV,,
+AL_143BV,,
+AL_144BV,,
+AL_145BV,,
+AL_146BV,,
+AL_147BV,,
+AL_148BV,,
+AL_14BV,,
+AL_151BV,,
+AL_152BV,,
+AL_153BV,,
+AL_154BV,,
+AL_155BV,,
+AL_156BV,,
+AL_157BV,,
+AL_158BV,,
+AL_159BV,,
+AL_15BV,,
+AL_160BV,,
+AL_161BV,,
+AL_162BV,,
+AL_163BV,,
+AL_164BV,,
+AL_165BV,,
+AL_166BV,,
+AL_167BV,,
+AL_168BV,,
+AL_169BV,,
+AL_16BV,,
+AL_170BV,,
+AL_171BV,,
+AL_172BV,,
+AL_173BV,,
+AL_174BV,,
+AL_175BV,,
+AL_176BV,,
+AL_177BV,,
+AL_178BV,,
+AL_17BV,,
+AL_180BV,,
+AL_181BV,,
+AL_182BV,,
+AL_183BV,,
+AL_184BV,,
+AL_185BV,,
+AL_186BV,,
+AL_187BV,,
+AL_188BV,,
+AL_189BV,,
+AL_18BV,,
+AL_190BV,,
+AL_191BV,,
+AL_192BV,,
+AL_193BV,,
+AL_194BV,,
+AL_195BV,,
+AL_196BV,,
+AL_197BV,,
+AL_198BV,,
+AL_199BV,,
+AL_19BV,,
+AL_1BV,,
+AL_1C,,
+AL_200BV,,
+AL_201BV,,
+AL_202B,,
+AL_202BV,,
+AL_203BV,,
+AL_204BV,,
+AL_205BV,,
+AL_206BV,,
+AL_207B,,
+AL_207BV,,
+AL_207C,,
+AL_208BV,,
+AL_209BV,,
+AL_20BV,,
+AL_210BV,,
+AL_211BV,,
+AL_212BV,,
+AL_213BV,,
+AL_214BV,,
+AL_215BV,,
+AL_216BV,,
+AL_217BV,,
+AL_218BV,,
+AL_219BV,,
+AL_21BV,,
+AL_220BV,,
+AL_221BV,,
+AL_222BV,,
+AL_223BV,,
+AL_224BV,,
+AL_225BV,,
+AL_226BV,,
+AL_227BV,,
+AL_228BV,,
+AL_229BV,,
+AL_22BV,,
+AL_230BV,,
+AL_231BV,,
+AL_232BV,,
+AL_233BV,,
+AL_234BV,,
+AL_235BV,,
+AL_236BV,,
+AL_237BV,,
+AL_238BV,,
+AL_239BV,,
+AL_23BV,,
+AL_240BV,,
+AL_241BV,,
+AL_242BV,,
+AL_243BV,,
+AL_244BV,,
+AL_245BV,,
+AL_246BV,,
+AL_247BV,,
+AL_248BV,,
+AL_249BV,,
+AL_24BV,,
+AL_250BV,,
+AL_251BV,,
+AL_252BV,,
+AL_253BV,,
+AL_254BV,,
+AL_255BV,,
+AL_256BV,,
+AL_257BV,,
+AL_258BV,,
+AL_259BV,,
+AL_25BV,,
+AL_260BV,,
+AL_261BV,,
+AL_262BV,,
+AL_263BV,,
+AL_264BV,,
+AL_265BV,,
+AL_266BV,,
+AL_267BV,,
+AL_268BV,,
+AL_269BV,,
+AL_26BV,,
+AL_270BV,,
+AL_271BV,,
+AL_272BV,,
+AL_273BV,,
+AL_274BV,,
+AL_275BV,,
+AL_276BV,,
+AL_277BV,,
+AL_278BV,,
+AL_279BV,,
+AL_27BV,,
+AL_280BV,,
+AL_281BV,,
+AL_282BV,,
+AL_283BV,,
+AL_284BV,,
+AL_285BV,,
+AL_286BV,,
+AL_287BV,,
+AL_288BV,,
+AL_289BV,,
+AL_28BV,,
+AL_290BV,,
+AL_291BV,,
+AL_292BV,,
+AL_293BV,,
+AL_294BV,,
+AL_295BV,,
+AL_296BV,,
+AL_297BV,,
+AL_298BV,,
+AL_299BV,,
+AL_29BV,,
+AL_2B,,
+AL_2BV,,
+AL_300BV,,
+AL_301BV,,
+AL_302BV,,
+AL_303BV,,
+AL_304BV,,
+AL_305BV,,
+AL_306BV,,
+AL_306C,,
+AL_30BV,,
+AL_31BV,,
+AL_32BV,,
+AL_33BV,,
+AL_34BV,,
+AL_35BV,,
+AL_36BV,,
+AL_37BV,,
+AL_38BV,,
+AL_39BV,,
+AL_3BV,,
+AL_408B,,
+AL_40BV,,
+AL_410B,,
+AL_41BV,,
+AL_42BV,,
+AL_43BV,,
+AL_44BV,,
+AL_45BV,,
+AL_46BV,,
+AL_47BV,,
+AL_48BV,,
+AL_4BV,,
+AL_501B,,
+AL_502B,,
+AL_504B,,
+AL_504C,,
+AL_509B,,
+AL_510B,,
+AL_510C,,
+AL_5BV,,
+AL_6BV,,
+AL_702B,,
+AL_704B,,
+AL_706B,,
+AL_708B,,
+AL_710B,,
+AL_7BV,,
+AL_802B,,
+AL_802C,,
+AL_804B,,
+AL_804C,,
+AL_805C,,
+AL_806B,,
+AL_806C,,
+AL_807C,,
+AL_808B,,
+AL_808C,,
+AL_810B,,
+AL_810C,,
+AL_8BV,,
+AL_901B,,
+AL_901C,,
+AL_902B,,
+AL_902C,,
+AL_903C,,
+AL_904C,,
+AL_9BV,,
+AMARAL1,0.0,0.0
+AMBEV,0.0,0.0
+AMBEV PELOTAS,0.0,0.0
+ANA 746 124,,
+ANA 746 72,,
+ANCHIETA,0.0,0.0
+ANDIROBA 01,0.0,0.0
+ANDIROBA 02,0.0,0.0
+ANDIROBA 03,0.0,0.0
+ANDIROBA 04,0.0,0.0
+ANDIROBA 05,0.0,0.0
+ANDIROBA 06,0.0,0.0
+ANDIROBA 07,0.0,0.0
+ANDIROBA 08,0.0,0.0
+ANDIROBA 09,0.0,0.0
+ANDIROBA 10,0.0,0.0
+ANDIROBA 11,0.0,0.0
+ANDIROBA 12,0.0,0.0
+ANG 1683 21,,
+ANG 1697 92,,
+ANHANGÜERA,0.0,0.0
+ANM RETROFIT,0.63,0.0
+ANTONIOA,0.0,0.0
+ANTÔNIO DE GODÓI,,
+AP 113 24,,
+AP 200 MAGNO,0.0,0.0
+AP 433 913,,
+AP 588 12,,
+AP ANTONELLO,,
+APARTAMENTO,0.05,0.0
+APARTAMENTO MAYFLOWER,,
+APD87287,0.0,0.0
+API 1270 122,,
+API 445 61,,
+API 758 121,,
+APLUB 1,0.0,0.0
+APT ANAPURUS,0.0,0.0
+APTO A,0.0,0.0
+APTO. 181 BLOCO C - COND VENTANA,,
+AQ3 Industrial - Nova Iguaçu,0.0,1.0
+AQ3 LOG Taubaté,0.0,1.0
+AR 390 51B,,
+AR 578 54,,
+ARA 135 22,,
+ARA 137 51,,
+ARA 298 121,,
+ARA 298 51,,
+ARA 298 81,,
+ARA 550 102,,
+ARA 628 131,,
+ARCADIA 92,0.0,0.0
+ARI 340 102,,
+ARI 561 110,,
+ARI 661 21,,
+ARI 666 71,,
+ARI 679 8,,
+ARP 419 104,,
+ARR 414 41,,
+ASS 254 202,,
+ASSAÍ - SANTO ANDRÉ,0.0,0.0
+ATIB 106944,0.0,0.0
+ATIB 106945,0.0,0.0
+ATIB 106946,0.0,0.0
+ATIB 91314,0.0,0.0
+ATIB 91315,0.0,0.0
+ATIB 91316,0.0,0.0
+ATIBA 104467,0.0,0.0
+ATIBA 104468,0.0,0.0
+ATIBA 91325,0.0,0.0
+ATIBAIA 11,0.0,0.0
+ATIBAIA 32,0.0,0.0
+ATIBAIA 72,0.0,0.0
+ATP 566 1204,,
+AUR 329 32,,
+AUT101_1,,
+AUT102_1,,
+AV DONA BELMIRA MARIN,,
+AV GOIAS,1.0,0.0
+"AV. Brasil, 20384",1.0,0.0
+AVENIDAS,0.0,0.0
+Aeroporto,0.0,0.0
+Aflitos,0.0,0.0
+Ag Av. Pres. Wilson      ,0.0,0.0
+Ag Pq. Maria Helena,0.0,0.0
+Ag. Av. Francisco Morato,0.0,0.0
+Ag. Av. Santo Amaro,0.0,0.0
+Ag. Demarchi,0.0,0.0
+Ag. Estilo Av. Portugal,0.0,0.0
+Ag. Estilo Berrini,0.0,0.0
+Ag. Estilo Brasil,0.0,0.0
+Ag. Estilo Butantã,0.0,0.0
+Ag. Estilo Cambuí,0.0,0.0
+Ag. Estilo Estados Unidos,0.0,0.0
+Ag. Estilo Indianópolis,0.0,0.0
+Ag. Estilo Joaquim Floriano,0.0,0.0
+Ag. Estilo Nova Faria Lima,0.0,0.0
+Ag. Estilo Santo Amaro,0.0,0.0
+Ag. Estilo Vila Esperança,0.0,0.0
+Ag. Imperatriz Leopoldina,0.0,0.0
+Ag. Paes de Barros,0.0,0.0
+Ag. Parque da Aclimação,0.0,0.0
+Ag. Pedro Pinho,0.0,0.0
+Ag. Pq. Boturussu,0.0,0.0
+Ag. Raposo,,
+Agaxtur,0.0,0.0
+Air Liquide,0.0,0.0
+Air Liquide - Canoas/RS,0.0,0.0
+Air Liquide - São José dos Campos/SP,0.0,0.0
+Alameda Santos,0.0,0.0
+Alexandre Dumas,0.0,0.0
+Almanara - Jandira/SP,0.0,0.0
+Alphaville,0.0,0.0
+Alto da XV,0.0,0.0
+Ambev,0.0,0.0
+Amoreiras,0.0,0.0
+Ampla,0.0,0.0
+Ana Rosa,0.0,0.0
+Anchieta,0.0,0.0
+Angelim  Mat 2123,0.0,0.0
+Angelim  Mat 2124,0.0,0.0
+Angelim  Mat 2194,0.0,0.0
+Anhanguera,0.0,0.0
+Anhanguera Educacional,1.0,0.0
+Anima Consolação,0.0,0.0
+Antartica,1.0,0.0
+Anápolis - GO,0.0,0.0
+Apartamento Parques das Águas 2106,0.0,0.0
+Apartamento Parques das Águas 902,0.0,0.0
+Apartamento Quinta da Altiora,,
+Apto 142  - Ed Adriana Margarida,,
+Apto Nº104 - Ed. Guaraí - R. Dr. Mello,0.0,0.0
+Apto Nº111 - Ed. Scipione - R. Bandeira,0.0,0.0
+Apto Nº114 - Ed Caroline - R. Urimonduba,0.0,0.0
+Apto Nº2 - Ed. Pedra Branca - R. Jorge,0.0,0.0
+Apto Nº21 - Ed. Vila Real - R. P. Alvaren,0.0,0.0
+Apto Nº41 - Ed Maison Mont Clair - R.,0.0,0.0
+Apto Nº71 - Ed. Arly - R. Mourato Coelho,0.0,0.0
+Apto Nº82 - Ed. Camamu - Al Campinas,0.0,0.0
+Apto Nº94 - Ed. Guaraí - R. Dr. Mello Al,0.0,0.0
+Apto nº21 - Ed Luciana,,
+Apto. 1002 + 4 Box + 1 Dep. - Torre 02 - Cond. Resid. Murano,,
+Apto. 1103 + 3 Box + 1 Dep- Torre 02 - Cond. Resid. Murano,,
+Apto. 1303 + 3 Box + 1 Dep - Torre 02 - Cond. Resid. Murano,,
+Apto. 403+5Box+1Dep - T. 01 Ágata - C. Res. Las Piedras,,
+Apto. 404+5Box+1Dep - T. 01 Ágata - C. Res. Las Piedras,,
+Apto. 501+5Box+1Dep - T. 02 Jade - C. R. Las Piedras,,
+Apto. 804 - Torre 01 - Cond. Resid. Nilo Home Square,,
+Araguaia  Mat 266,0.0,0.0
+Araguaia II  Mat 99,0.0,0.0
+Araguaia III  Mat 466,0.0,0.0
+Araguaia V  Mat 374,0.0,0.0
+Arapiraca,0.0,0.0
+Arapongas - PR,0.0,0.0
+Araranguá - SC,0.0,0.0
+Araruama - CBD_EXTRA_LOJ.1833,0.0,0.0
+Araucária - PR,0.0,0.0
+Araucárias,0.0,0.0
+Araçatuba,0.0,0.0
+Arena Esportiva,0.0,0.0
+Aretê,,
+Aretê - Peninsula Norte,,
+Aretê - Toriba 1,,
+Aricanduva,0.0,0.0
+Arroio do Sal,0.0,0.0
+Asa Sul 308 Sul,0.0,0.0
+Aspro,0.0,0.95
+Assaí,0.0,0.0
+Assaí  Campinas,0.0,0.0
+Assaí  Paulínia,0.0,0.0
+Assaí  Piracicaba,0.0,0.0
+Astuti,0.0,0.0
+Atento Salvador/BA,0.0,0.0
+Atento Santos/SP,0.0,0.0
+Atmosfera,0.0,0.0
+Atrium Shopping Santo André - 100%,0.18,0.12
+"Av. Ceres, 90",0.0,0.04
+Av. Chile,0.0,0.0
+"Av. Cristiano Fischer, 1950",0.0,0.0
+"Av. Dos Estados, 1763 - (antigo Moinho)",1.0,0.0
+Av. Mem de Sá,0.75,0.0
+Av. Presidente Juscelino Kubitschek,0.0,0.0
+"Av. Severo Dullius, 1995",0.24,0.0
+"Av. Severo Dullius, 895",0.0,0.0
+Avenida Brasil,0.0,0.0
+Avenida Nações Unidas - Novo Hamburgo /RS,0.0,0.0
+BAB11426,0.25,0.0
+BAL 63 12,,
+BANDEIRA PAULISTA,,
+BANDEIRANTES,,
+BAPO 152 504,,
+BARAOM,0.0,0.0
+BARI 681 804,,
+BARROS VIANNA 142,0.0,0.0
+BAT 170 13,,
+BAT 333 101,,
+BAT 362 71,,
+BAT 362 91,,
+BAT 453 21,,
+BAT 483 92,,
+BAT 577 41,,
+BAY VIEW,0.46,0.0
+BB 282 81,,
+BB 435 131,,
+BB 435 81,,
+BB Antônio das Chagas,0.0,0.0
+BBA-SP-64610,,
+BBO 102 4,,
+BC 127 62,,
+BC 1642 111,,
+BC 1760 34,,
+BC 2316 93,,
+BCO 11 303,,
+BED'S PIRAGIBE,,
+BELMIRA MARIM,,
+BELO HORIZONTE,0.0,0.0
+BENJC 90 40,,
+BERRINI,0.0,0.0
+BGOMES,0.0,0.0
+BH - TIRADENTES,0.0,0.0
+BH 321 83,,
+BH 353 81,,
+BH 353 82,,
+BIB 129 101,,
+BLA 2759 31,,
+BM336,0.0,0.0
+BMA Corporate,0.03,0.0
+BOIMIRIM,0.0,0.0
+BPA 147 153,,
+BPA 147 92,,
+BPA 292 131,,
+BPA 49 92,,
+BPA 747 104,,
+BPA 780 71,,
+BPA 87 81,,
+BPO 152 306,,
+BPS - BOTAFOGO PRAIA SHOPPING,0.0,0.0
+BPWR - BL5 APTO502,,
+BPWR - BL6 APTO102,,
+BPWR - BL6 APTO301,,
+BPWR - BL7 APTO102,,
+BRA 120 7,,
+BRASILIA,,
+BRASÍLIA  NORTE,0.0,0.0
+BRASÍLIA SUL,0.0,0.0
+BRF - Salvador/BA,0.0,0.0
+BRF Londrina,0.0,0.0
+BRT 306 41,,
+BRT 306 51,,
+BT 426 201,,
+BTM 637 606,,
+BTR 1528 81,,
+BTRI 639 21,,
+BV 130 61,,
+BV 273 11,,
+BV 473 152,,
+BV 592 136,,
+Baldum I  Mat 446,0.0,0.0
+Baldum II  Mat 447,0.0,0.0
+Baldum III  Mat 445,0.0,0.0
+Baldum IV  Mat 496,0.0,0.0
+Bandeira,0.0,0.0
+Barra Funda,0.0,0.02
+Barra do Garças 3 - MT,0.0,0.0
+Barreiras - BA,0.0,0.0
+Barry,0.0,0.0
+Barão de Mesquita,0.1,0.01
+Basiliana  Mat 111,0.0,0.0
+Bauru - SENDAS_ASSAI,0.0,0.0
+Bauru - SP,0.0,0.0
+Bebedouro  Mat 131,0.0,0.0
+Bela Cintra,0.01,0.01
+Belem Novo,0.0,0.0
+Belo Horizonte (Minas Shopping),0.0,0.0
+Belo Horizonte I  Mat 1274,0.0,0.0
+Belo Horizonte II  Mat 1031,0.0,0.0
+Belvedere,0.0,0.0
+Benteler,,
+Berfort Roxo,0.0,0.0
+Berfort Roxo (C&C),0.0,0.0
+Berrini One,0.11,0.0
+Betim,1.0,0.0
+Bica  Mat 102,0.0,0.0
+Blue Tree Faria Lima,0.5,0.0
+Bolsa RJ,0.2,0.0
+Bom Jardim,0.0,0.0
+Bompreço Supermercados do Nordeste Ltda,0.0,0.0
+Bonfim  Mat 4712,0.0,0.0
+Bonsucesso,0.0,0.0
+Borba Gato,0.0,0.0
+Botafogo Trade Center,0.01,0.0
+Boulevard Corporate Tower,0.01,0.0
+Boulevard Shopping Belém,0.0,0.0
+Boulevard Shopping Campos,0.0,0.0
+Box     09 - Torre 01 - Cond. Resid. Nilo Home Square,,
+Boxes Estacionamento TNCG (275 simples + 8 Duplos,0.0,0.0
+Brascabos Rio Claro,0.0,0.0
+Brasília Norte,0.0,0.0
+Brasília Sul,0.0,0.0
+Brazilian Financial Center,0.11,0.0
+Brejeiro  Mat 365,0.0,0.0
+Bresco Bahia G100,0.0,0.0
+Bresco Contagem,0.06,0.0
+Bresco Itupeva,0.09,0.0
+Brookfield Towers,0.31,0.13
+Brooklyn Business Square,0.0,0.0
+Brusque  - SC (Renaux),0.0,0.0
+Brusque - SC (Jardim Maluche),0.0,0.0
+Brusque - SC (Schlosser),0.0,0.0
+Buenos Aires Corporate,0.02,0.0
+Buraco  Mat 24888,0.0,0.0
+C&A,0.0,0.0
+C&A - Alphaville,0.0,0.0
+CA 853 22,,
+CA12831,1.0,0.0
+CA12832,1.0,0.0
+CA12833,1.0,0.0
+CA12834,1.0,0.0
+CA19493,1.0,0.0
+CA19496,1.0,0.0
+CA194962,1.0,0.0
+CA19794,1.0,0.0
+CA20111,0.0,0.0
+CA20112,0.0,0.0
+CA20113,1.0,0.0
+CA20114,0.0,0.0
+CA20115,0.0,0.0
+CA20116,0.0,0.0
+CA20117,0.0,0.0
+CA20118,0.0,0.0
+CA20119,0.0,0.0
+CA20120,0.0,0.0
+CA20121,0.0,0.0
+CA20122,0.0,0.0
+CA20123,0.0,0.0
+CA20124,0.0,0.0
+CA20125,0.0,0.0
+CA20126,0.0,0.0
+CA20127,0.0,0.0
+CA20128,0.0,0.0
+CA20129,0.0,0.0
+CA20130,0.0,0.0
+CA20131,0.0,0.0
+CA20132,0.0,0.0
+CA20133,0.0,0.0
+CA20134,0.0,0.0
+CA20135,0.0,0.0
+CA20136,0.0,0.0
+CA20137,0.0,0.0
+CA20138,0.0,0.0
+CA2970,1.0,0.0
+CA2971,1.0,0.0
+CA2972,1.0,0.0
+CA2973,1.0,0.0
+CA2974,1.0,0.0
+CA2975,1.0,0.0
+CA2976,1.0,0.0
+CA2977,1.0,0.0
+CA2978,1.0,0.0
+CA3612,1.0,0.0
+CA3613,1.0,0.0
+CA3614,1.0,0.0
+CA3615,1.0,0.0
+CA3616,1.0,0.0
+CA3617,1.0,0.0
+CA41474,1.0,0.0
+CA41475,1.0,0.0
+CA41476,1.0,0.0
+CA41477,1.0,0.0
+CA41478,1.0,0.0
+CA41479,1.0,0.0
+CA41480,1.0,0.0
+CA41481,1.0,0.0
+CA41482,1.0,0.0
+CA41483,1.0,0.0
+CA41484,1.0,0.0
+CA41485,1.0,0.0
+CA41486,1.0,0.0
+CA41487,1.0,0.0
+CABREUVA 1.203,0.0,0.0
+CABREUVA 1.204,0.0,0.0
+CAC 380 101,,
+CAC 426 91,,
+CAC 49 53,,
+CAC 50 82,,
+CAC 74 72,,
+CAC 74 82,,
+CAC10319,1.0,0.0
+CACHOEIRINHA - CD Via Varejo,0.0,0.0
+CAD 457 123,,
+CAE 855 111,,
+CAI 299 131,,
+CAJAMAR,0.0,0.0
+CAJAMAR - CD Leroy,,
+CAL104_9,,
+CAL201_7,,
+CAL205_8,,
+CAL206_6,,
+CAL207_7,,
+CAL305_9,,
+CAL401_7,,
+CAL503_7,,
+CAL506_9,,
+CAL511_6,,
+CAL512_6,,
+CAL701_6,,
+CAL706_9,,
+CAL712_8,,
+CAL801_6,,
+CAL801_7,,
+CAL801_8,,
+CAL802_8,,
+CAL805_8,,
+CAL806_8,,
+CAL807_9,,
+CAL812_9,,
+CAL_LA1,,
+CAL_LB1,,
+CAL_LH1,,
+CAM 1176 71,,
+CAM 1497 71,,
+CAM 541 142,,
+CAM 911 111,,
+CAMARGO EMBALAGENS,0.0,0.0
+CAMIL,0.0,0.0
+CAMPINAS,0.0,0.0
+CAMPINAS/AMOREIRAS,0.0,0.0
+CAMPO GRANDE,0.0,0.0
+CAN 890 202,,
+CAN 890 42,,
+CAN 890 83,,
+CAN 917 131,,
+CAN-BA-6043,,
+CAN-BA-6044,,
+CAN-BA-6052,,
+CAN-BA-6053,,
+CAN-BA-6054,,
+CAN-BA-6055,,
+CAN-BA-6056,,
+CAN-BA-6059,,
+CAN-BA-6060,,
+CAN-BA-6061,,
+CAN-BA-6062,,
+CAN-BA-6063,,
+CAN-BA-6064,,
+CAND 279 104,,
+CANDELÁRIA CORPORATE,0.66,0.0
+CAR-RS-37134,,
+CARAPICUIBA,0.0,0.0
+CARAPICUIBA-INOCENCIO SERAFICO,0.0,0.0
+CARDOSO DE ALMEIDA,0.0,0.0
+CARIACICA,0.0,0.0
+CARJ,0.14,0.0
+CAS 155 66B,,
+CASA,,
+CASA JD GUEDALA,,
+CASA LÍDER,,
+CASSIO 700,0.0,0.0
+CASSIO 900,0.0,0.0
+CAT 891 64,,
+CB 438 92,,
+CB 471 09,,
+CB 559 18,,
+CB 605 802,,
+CB 685 101,,
+CB 749 71,,
+CB 755 11,,
+CBOP (Jacarandá),0.6,0.18
+CBP Ribeirão Preto,0.0,0.0
+CBR_1003,,
+CBR_109,,
+CBR_110,,
+CBR_1106,,
+CBR_1109,,
+CBR_1201,,
+CBR_1209,,
+CBR_1304,,
+CBR_1406,,
+CBR_1409,,
+CBR_1501,,
+CBR_1506,,
+CBR_1507,,
+CBR_1508,,
+CBR_1509,,
+CBR_1510,,
+CBR_1601,,
+CBR_1604,,
+CBR_1605,,
+CBR_1609,,
+CBR_1610,,
+CBR_1704,,
+CBR_1705,,
+CBR_1706,,
+CBR_1707,,
+CBR_1801,,
+CBR_1806,,
+CBR_1807,,
+CBR_1810,,
+CBR_1904,,
+CBR_1910,,
+CBR_207,,
+CBR_209,,
+CBR_2105,,
+CBR_2207,,
+CBR_2208,,
+CBR_2209,,
+CBR_302,,
+CBR_403,,
+CBR_407,,
+CBR_409,,
+CBR_509,,
+CBR_602,,
+CBR_609,,
+CBR_702,,
+CBR_707,,
+CBR_904,,
+CBR_908,,
+CCA 1681001,,
+CCA 1681002,,
+CC_101B,,
+CC_102A,,
+CC_102B,,
+CC_102BC,,
+CC_1302B,,
+CC_1402B,,
+CC_1602B,,
+CC_1802B,,
+CC_302A,,
+CC_702B,,
+CD 1200 162,,
+CD 1200 163,,
+CD Bandeirantes,0.0,0.0
+CD Cachoeirinha,0.0,0.0
+CD Contagem,0.0,0.0
+CD Itaqua,0.0,0.0
+CD Leroy Cajamar,0.0,0.0
+CD Mogi das Cruzes,0.0,0.0
+CD PPG Sumaré,0.0,0.0
+CD Pouso Alegre,0.0,0.0
+CD Privalia,0.0,0.0
+CD RENNER - CD Renner,0.0,0.0
+CD Renner,0.0,0.0
+CD Santa Cruz,0.09,0.0
+CD Unilever (MM1),0.0,0.0
+CDA 977 21,,
+CDS 437 12,,
+CEA 101 31,,
+CEF - 14 Bis,0.0,0.0
+CEF - Ag Av. Pres. Wilson      ,0.0,0.0
+CEF - Ag Pq. Maria Helena,0.0,0.0
+CEF - Alto do Jaraguá,0.0,0.0
+CEF - Av. Chile,0.0,0.0
+CEF - Bandeira,0.0,0.0
+CEF - Barra Funda,0.0,0.0
+CEF - Bonsucesso,0.0,0.0
+CEF - Capão Redondo,0.0,0.0
+CEF - Cipó-Guaçu,0.0,0.0
+CEF - Estrada Rio do A,0.0,0.0
+CEF - Ferraz de Vasconcelos,0.0,0.0
+CEF - Guaianases,0.0,0.0
+CEF - Guarapiranga,0.0,0.0
+CEF - Hebraica,0.0,0.0
+CEF - Imirim,0.0,0.0
+CEF - Inconfidência,0.0,0.0
+CEF - Industrial,0.0,0.0
+CEF - Ipanema,0.0,0.0
+CEF - Italianos,0.0,1.0
+CEF - Itaquaquecetuba,0.0,0.0
+CEF - Itaquera,0.0,0.0
+CEF - Jaraguá,0.0,0.0
+CEF - Jardim da Saúde,0.0,0.0
+CEF - Jundiapeba,0.0,0.0
+CEF - Largo de Pinheiros,0.0,0.0
+CEF - Leme,0.0,0.0
+CEF - Meier,0.0,0.0
+CEF - Mutinga,0.0,0.0
+CEF - Nova Iguaçu,0.0,0.0
+CEF - Paes Leme,0.0,0.0
+CEF - Pedro Vicente,0.0,0.0
+CEF - Pirituba,0.0,0.0
+CEF - Planalto Paulista,0.0,0.0
+CEF - Pátio do Colégio,0.0,0.0
+CEF - Quitaúna,0.0,0.0
+CEF - Recreio dos Bandeirantes,0.0,0.0
+CEF - Rio Claro,0.0,0.0
+CEF - Santa Cecília,0.0,0.0
+CEF - Senador Queirós,0.0,0.0
+CEF - São Gonçalo,0.0,0.0
+CEF - São Mateus,0.0,0.0
+CEF - São Miguel Paulista,0.0,0.0
+CEF - Venda Nova,0.0,0.0
+CEF - Via Anchieta,0.0,0.0
+CEF - Vila Mascote,0.0,0.0
+CEL 524 44,,
+CEL 632 151,,
+CELEST 1014,0.0,0.0
+CELEST 1212,0.0,0.0
+CELEST 1214,0.0,0.0
+CELEST 1513,0.0,0.0
+CELEST 1514,0.0,0.0
+CELEST 1912,0.0,0.0
+CELEST 604,0.0,0.0
+CELEST 615,0.0,0.0
+CEN_104B,,
+CEN_114B,,
+CEN_13B,,
+CEN_144B,,
+CEN_14B,,
+CEN_154B,,
+CEN_164B,,
+CEN_182B,,
+CEN_184B,,
+CEN_23B,,
+CEO Corporate Executive Offices,0.12,0.0
+CEPALGO EMBALAGENS FLEXÍVEIS LTDA,0.0,0.0
+CERRO CORÁ,0.0,0.0
+CES 269 93,,
+CESAR MOTA,1.0,0.0
+CESBOM,0.06,0.0
+CETENCO PLAZA,0.17,0.0
+CF 163 81,,
+CGR-MS-137658,,
+CHAMPAGNAT,0.0,0.0
+CI59118,0.0,0.0
+CIN 63 41,,
+CLA5385,1.0,0.0
+CLD 506 104,,
+CLD 506 183,,
+CMN 1060 32,,
+CNB - CONJUNTO NACIONAL BRASILIA,0.0,0.0
+COM RES TEENA,,
+COM-MG-93214,,
+COMERCIAL-1211,,
+COMERCIAL-1216,,
+COMERCIAL-1218,,
+COMERCIAL-1806,,
+COMERCIAL-1807,,
+COMERCIAL-2001,,
+COMERCIAL-2017,,
+COMERCIAL-2117,,
+COMERCIAL-2301,,
+COMERCIAL-2317,,
+COMODORO 52,0.0,0.0
+COMODORO 53,0.0,0.0
+CON 2801 102,,
+CON 2801 122,,
+CON 3064 251,,
+CON 3268 112,,
+CON 3630 81,,
+CON 3665 22,,
+COND COM ANDRADE NEVES,0.0,0.0
+COND COM QUINTINO BOCAIUVA,1.0,0.0
+COND COM SQUARE CORPORATE,0.0,0.0
+COND. RESIDENCIAL MY JOY - unid. 102,,
+COND. RESIDENCIAL MY JOY - unid. 103,,
+COND. RESIDENCIAL MY JOY - unid. 112,,
+COND. RESIDENCIAL MY JOY - unid. 12,,
+COND. RESIDENCIAL MY JOY - unid. 13,,
+COND. RESIDENCIAL MY JOY - unid. 132,,
+COND. RESIDENCIAL MY JOY - unid. 21,,
+COND. RESIDENCIAL MY JOY - unid. 23,,
+COND. RESIDENCIAL MY JOY - unid. 24,,
+COND. RESIDENCIAL MY JOY - unid. 31,,
+COND. RESIDENCIAL MY JOY - unid. 33,,
+COND. RESIDENCIAL MY JOY - unid. 42,,
+COND. RESIDENCIAL MY JOY - unid. 44,,
+COND. RESIDENCIAL MY JOY - unid. 51,,
+COND. RESIDENCIAL MY JOY - unid. 93,,
+COND. WORK BELA CINTRA,0.04,0.0
+CONDOMINIO ALDEIA DE ITAPOROROCA,0.99,0.0
+"CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2)",,
+CONE G06,0.27,0.0
+CONJ REG,0.0,0.0
+CONJUNTO,0.05,0.0
+CONS. RODR. ALVES,0.0,0.0
+CONTINENTAL SQUARE,0.0,0.0
+COOPERATIVA CENTRAL AURORA ALIMENTOS,0.0,0.0
+COP 114 32,,
+COP 569 81,,
+COPOBRÁS,0.0,0.0
+COPOBRÁS II,0.0,0.0
+COT 141 51,,
+COTE D´AZUR 123,0.0,0.0
+COVOLAN,0.0,0.0
+CPC 256 24,,
+CPF 65 111,,
+CPF 65 151,,
+CPRU 161 12,,
+CR 88 24,,
+CRO 227 132,,
+CRS 516 BRASILIA,0.0,0.0
+CRV 243 51,,
+CRV 243 52,,
+CRV 671 133,,
+CSL BELO HORIZONTE,0.0,0.0
+CSL BRASILIA,0.0,0.0
+CSL CURITIBA,0.0,0.0
+CSL SAO PAULO,0.0,0.0
+CTI,0.16,0.0
+CTR Empresarial - Matrícula 95590,0.25,0.0
+CTV 180 154,,
+CTX 1289 12,,
+CTX 1289 71,,
+CUB-SP-14171,,
+CUBAS1,0.0,0.0
+CURITIBA,0.0,0.0
+CURITIBA ALTOS XV,0.0,0.0
+CURUÇÁ,0.0,0.0
+CV 275 15,,
+CVS - CENTER VALE SHOPPING,0.0,0.0
+CW 535 14,,
+CWE 601 112,,
+Cabreuva,0.0,0.0
+Cabreúva,0.0,0.0
+Cacoal - RO,0.0,0.0
+Cajuá I  Mat 36,0.0,0.0
+Cajuá II  Mat 95,0.0,0.0
+Calaço  Mat 948,0.0,0.0
+Camaçari,0.0,0.0
+Camboim,0.0,0.0
+Cambui,0.0,0.0
+Campina,0.0,0.0
+Campina Bela  Mat 264,0.0,0.0
+Campina Bela  Mat 537,0.0,0.0
+Campina Bela  Mat 552,0.0,0.0
+Campina Grande - SENDAS_ASSAI_70%_LOJ.83,0.0,0.0
+Campinas,0.0,0.0
+Campinas - SP,0.0,0.0
+Campo Grande,0.0,0.0
+Campo Grande - MS,0.0,0.0
+Campo Grande 2 - MS,0.0,0.0
+Campo Largo,1.0,0.95
+Canopus Corporate Alphaville,0.38,0.0
+Capital Plaza,0.0,0.0
+Capão Redondo,0.0,0.0
+Carapicuíba,0.0,0.0
+Cardeal Leme,0.35,0.05
+Cardoso de Almeida,0.0,0.0
+Carioca,0.54,0.07
+Carrefour Building,0.85,0.0
+Carrefour Comercio e Industria Ltda,0.0,0.0
+Casa 08 - Condomínio Residencial Vila Gardena,0.0,0.0
+Casa Comandante,,
+Casa Comercial em centro urbano,0.5,0.0
+Casa Daros,0.0,0.0
+Casa Vila Clarice,0.0,0.0
+Cassino,0.0,0.0
+Castanhal,0.0,0.0
+Castelo 57 Business Park,,
+Catarina Fashion Outlet,0.02,-0.03
+Catubaía II  Mat 1010,0.0,0.0
+Catú  Mat 488,0.0,0.0
+Catú dos Eleotérios  Mat 770,0.0,0.0
+Caxias Shopping,0.02,0.04
+Caxias do Sul,0.0,0.0
+Cenarium,0.4,0.06
+Centauro,0.0,0.0
+Center Shopping Rio,0.07,0.13
+Centro Empresarial Atibaia (Módulos 12 a 14 Ed. Safira),1.0,0.0
+Centro Empresarial Atibaia (vendido parcialmente),0.64,0.0
+Centro Empresarial Barra Shopping,0.3,0.0
+Centro Empresarial Cidade Nova - Teleporto,0.42,0.0
+Centro Empresarial Dom Pedro,0.16,0.0
+Centro Empresarial Guaíba,0.68,0.0
+Centro Empresarial Mario Garnero,0.0,0.0
+Centro Empresarial Mário Garneiro,1.0,0.0
+Centro Empresarial Nações Unidas,0.3,0.01
+Centro Empresarial Sylvio Fraga,0.0,0.0
+Centro Empresarial Transatlantico,0.13,0.0
+Centro Empresarial Transatlântico,0.83,0.0
+Centro Empresarial de São Paulo,0.34,0.02
+Centro Logístico Cumbica,0.0,0.0
+Centro Logístico e Industrial Salto,0.0,0.0
+Centro Universitário UNA - UNA,0.0,0.0
+Centro de Distribuição -Rio de Janeiro,0.0,0.0
+Centro de Distribuição Anhanguera - CDA,0.04,0.0
+Centro de Distribuição Natura São Paulo,0.0,0.0
+Centro de Distribuição Ribeirão Preto,0.0,0.0
+Cerro Corá,0.0,0.0
+Champagnat,0.0,0.0
+Charitas,1.0,0.0
+Chácara da Cunha  Mat 24899,0.0,0.0
+Cidade Jardim Continental Tower,0.63,0.0
+Cidade Jardim Corporate Center,0.0,0.0
+Cipreste,0.02,0.09
+Cipó-Guaçu,0.0,0.0
+Citta America,0.25,0.02
+Citta Office,0.25,0.0
+CityGate Extrema,0.0,0.0
+Clariant,0.0,0.0
+Colombo- PR,0.0,0.0
+Colorado  Mat 87,0.0,0.0
+Comfort Nova Paulista,0.25,0.0
+Comil,1.0,0.0
+Complexo Madeira,0.0,0.0
+Complexo WTC - World Trade Center de São Paulo,0.07,0.3
+Concessionária,0.0,0.0
+Concreserv,0.0,0.0
+Cond. Comolatti,0.0,0.0
+Cond. Concept Living Boutique - Apto 1001,,
+Cond. Concept Living Boutique - Apto 1002,,
+Cond. Concept Living Boutique - Apto 1003,,
+Cond. Concept Living Boutique - Apto 1101,,
+Cond. Concept Living Boutique - Apto 1102,,
+Cond. Concept Living Boutique - Apto 1103,,
+Cond. Concept Living Boutique - Apto 201,,
+Cond. Concept Living Boutique - Apto 202,,
+Cond. Concept Living Boutique - Apto 301,,
+Cond. Concept Living Boutique - Apto 302,,
+Cond. Concept Living Boutique - Apto 402,,
+Cond. Concept Living Boutique - Apto 403,,
+Cond. Concept Living Boutique - Apto 501,,
+Cond. Concept Living Boutique - Apto 502,,
+Cond. Concept Living Boutique - Apto 503,,
+Cond. Concept Living Boutique - Apto 601,,
+Cond. Concept Living Boutique - Apto 602,,
+Cond. Concept Living Boutique - Apto 603,,
+Cond. Concept Living Boutique - Apto 701,,
+Cond. Concept Living Boutique - Apto 702,,
+Cond. Concept Living Boutique - Apto 703,,
+Cond. Concept Living Boutique - Apto 801,,
+Cond. Concept Living Boutique - Apto 802,,
+Cond. Concept Living Boutique - Apto 803,,
+Cond. Concept Living Boutique - Apto 901,,
+Cond. Concept Living Boutique - Apto 902,,
+Cond. Concept Living Boutique - Apto 903,,
+Cond. das Monções da Gastão,0.0,0.01
+Condado de Cascais,1.0,0.0
+"Conde de Bonfim,149",0.88,0.0
+Condominio Alphaville D. Pedro,0.0,0.0
+Condominio Antonio Prado,0.29,0.04
+Condominio Araucárias,0.0,0.0
+Condominio Business Park,,
+Condominio Consolação,0.23,0.08
+Condominio Laranjeiras Paraty,0.0,0.0
+Condominio Panamérica Park,0.0,0.0
+Condominio Perini Business Park,0.06,0.07
+Condominio UBER Itaim,0.0,0.0
+Condomínio Bandeira Paulicéia,,
+Condomínio Borges 3647,,
+Condomínio Citlog Sul de Minas,0.24,0.0
+Condomínio Comary,0.0,0.0
+Condomínio Continental Square Fariala Lima - Torre Comercial,0.0,0.0
+Condomínio DDC RJ - Syslog RJ,0.0,0.0
+Condomínio E-Tower,0.0,0.0
+Condomínio Ed São Luiz,0.0,0.0
+Condomínio Ed. Summit Pinheiros,0.0,0.0
+Condomínio Edifício Capital Plaza,0.0,0.0
+Condomínio Edifício Fidalga,0.25,0.0
+Condomínio Edifício Mayrink Veiga,0.0,0.0
+Condomínio Edifício Paddock I,0.0,0.0
+Condomínio Edifício Praça Faria Lima,0.02,0.01
+Condomínio Edifício St. Louis,1.0,0.0
+Condomínio Edifício Timbaúba,0.0,0.0
+Condomínio Evolution Corporate,0.0,0.0
+Condomínio FL Corporate,0.01,0.0
+Condomínio FL Faria Lima,0.0,0.0
+Condomínio Helbor Trilogy Home & Offices,0.0,0.0
+Condomínio Isabella Plazza,0.0,0.0
+Condomínio Lisboa 142,,
+Condomínio Logístico Arujá I - SP,0.0,0.0
+Condomínio Logístico Arujá II - SP,0.0,0.0
+Condomínio Logístico Betim - MG,1.0,0.0
+Condomínio Logístico Contagem - MG,0.0,0.0
+Condomínio Logístico Duque de Caxias - RJ,0.0,0.0
+Condomínio Logístico Itapevi - SP,0.19,0.0
+Condomínio Logístico Santo André - SP,0.0,0.0
+Condomínio Logístico São Bernardo do Campo - SP,0.0,0.0
+Condomínio Logístico São José dos Pinhais - PR,0.0,0.0
+Condomínio Pateo Santa Fé,0.0,0.0
+Condomínio SJC,0.22,0.01
+Condomínio Seculum II,0.0,0.0
+Condomínio Tech Town,0.59,0.0
+Condomínio Vera Cruz II,0.01,0.0
+Condomínio WT Morumbi - Ala A,0.0,0.0
+Condomínio de Galpões Sindi,0.0,0.0
+"Cone Multimodal (MM1, MM2 e PP2), exceto CD Unilever",0.0,0.0
+Conjunto 1001 ao 1006 e  1101 ao 1106 - Torre Corporate TNCG,0.0,0.0
+Conjunto Alamedas,0.0,0.0
+Conjunto Voluntários,0.22,0.0
+Conjunto contíguo de três imóveis urbanos,0.0,0.0
+Conjunto residencial Jardim Europa,0.0,0.0
+"Conjuntos 801, 802, 901, 902,1201 e 1202.",0.0,0.0
+"Conjuntos 801, 802, 901, 902,1201 e 1202., 1002 e 2401",0.87,0.0
+Contagem,0.14,0.0
+Contax Alegria,0.0,0.0
+"Cores da Lapa, 1040",0.0,0.0
+"Cores da Lapa, 1131",0.0,0.0
+"Cores da Lapa, 1140",0.0,0.0
+"Cores da Lapa, 1338",0.0,0.0
+"Cores da Lapa, 436",0.0,0.0
+"Cores da Lapa, 536",0.0,0.0
+"Cores da Lapa, 636",0.0,0.0
+"Cores da Lapa, 640",1.0,1.0
+"Cores da Lapa, 736",0.0,0.0
+"Cores da Lapa, 740",0.0,0.0
+Corporate Emiliano,0.11,0.0
+Costa Amalfitana,,
+Costa Mare,,
+Cremer Blumenau,0.0,0.0
+Cruz Alta,0.0,0.0
+Cuiabá,0.0,0.0
+Curitiba,0.0,0.0
+Curso Exatas,0.0,0.12
+Curuçá,0.0,0.0
+Cyrela for you,,
+DA MATRI,0.0,0.0
+DAG217,0.5,0.0
+DAG3493,0.5,0.0
+DAM 1251 11,,
+DAM 597 11,,
+DARD 411 31,,
+DAT 16 41,,
+DBG 265 101,,
+DES7156,1.0,0.0
+DGB 55 1202,,
+DHL Embu,0.0,0.0
+DIA 831 41,,
+DIA AMERICA - CD Dia%Americana,0.0,0.0
+DIA RIBEIR - CD Dia%Ribeirão,0.0,0.0
+DID 40 22,,
+DIS 146 12,,
+DIV10253,1.0,0.0
+DJ 1046 131,,
+DJE 130 21,,
+DJM 87 85,,
+DLE 609 61,,
+DMA 1251 14,,
+DMA 265 112,,
+DMA 530 93,,
+DMA 957 94,,
+DNM 724 44,,
+DOM PEDR,0.0,0.0
+DOMO BUSINESS COMERCIAL 2427,,
+DOMO BUSINESS COMERCIAL 2722,,
+DOMO BUSINESS COMERCIAL 3010,,
+DOMO BUSINESS COMERCIAL 3621,,
+DOMO BUSINESS COMERCIAL 3622,,
+DOMO BUSINESS COMERCIAL 3627,,
+DOTH_135,,
+DOTH_144,,
+DOTH_148,,
+DOTH_158,,
+DOTH_172,,
+DOTH_181,,
+DOTO1002,,
+DOTO1006,,
+DOTO1010,,
+DOTO1011,,
+DOTO1012,,
+DOTO_103,,
+DOTO_112,,
+DOTO_201,,
+DOTO_207,,
+DOTO_209,,
+DOTO_212,,
+DOTO_302,,
+DOTO_303,,
+DOTO_304,,
+DOTO_306,,
+DOTO_402,,
+DOTO_505,,
+DOTO_512,,
+DOTO_603,,
+DOTO_707,,
+DOTO_711,,
+DOTO_808,,
+DOTO_905,,
+DOTO_910,,
+DOTO_912,,
+DPI 1052006,,
+DUQUE DE CAXIAS,0.0,0.0
+DV 524 45,,
+Danfoss,0.0,0.0
+Dantas Barreto,0.0,0.0
+Decathlon,0.0,0.0
+Divino Salvador APTO Nº 52,,
+Dom Gerado 46,0.52,0.0
+Dom Gerardo 40/42,0.73,0.0
+Dom Pedro,0.0,0.0
+Dourados,0.0,0.0
+Dourados - SENDAS_ASSAI,0.0,0.0
+Downtown Shopping,0.08,0.09
+Dual Medical & Business - unid. 105-A,,
+Dual Medical & Business - unid. 114-B,,
+Dual Medical & Business - unid. 115-B,,
+Dual Medical & Business - unid. 116-B,,
+Dual Medical & Business - unid. 301-B,,
+Dual Medical & Business - unid. 302-B,,
+Dual Medical & Business - unid. 401-A,,
+Dual Medical & Business - unid. 402-A,,
+Dual Medical & Business - unid. 505-A,,
+Dual Medical & Business - unid. 509-A,,
+Dual Medical & Business - unid. 601-A,,
+Dual Medical & Business - unid. 602-A,,
+Dual Medical & Business - unid. 610-A,,
+Dual Medical & Business - unid. 702-A,,
+Dual Medical & Business - unid. 709-A,,
+Duque de Caxias,1.0,0.0
+EASY1204,,
+EASY408,,
+EB_1004,,
+EB_1005,,
+EB_1007,,
+EB_1008,,
+EB_1009,,
+EB_1010,,
+EB_1011,,
+EB_1012,,
+EB_1013,,
+EB_1014,,
+EB_102,,
+EB_103,,
+EB_104,,
+EB_106,,
+EB_110,,
+EB_111,,
+EB_207,,
+EB_304,,
+EB_305,,
+EB_306,,
+EB_311,,
+EB_402,,
+EB_411,,
+EB_503,,
+EB_511,,
+EB_602,,
+EB_702,,
+EB_705,,
+EB_706,,
+EB_714,,
+EB_806,,
+EB_807,,
+EB_811,,
+EB_904,,
+EB_907,,
+EB_910,,
+EB_911,,
+EB_Loja2,,
+EB_Loja3,,
+ED BLUMENAU,0.0,0.0
+ED CAIXA,0.0,0.0
+ED CARLOS GO,0.0,0.0
+ED CASCAVEL,0.0,0.0
+ED CICOB,0.0,0.0
+ED HORTO FLO,0.0,0.0
+ED KING JAMES,,
+ED NH,0.0,0.0
+ED PLACE ROYALE,,
+ED QUERENCIA,0.0,0.0
+ED SEDE CONT,0.0,0.0
+ED SEDE MT,0.0,0.0
+ED TAORMINA,,
+ED. ATRIUM IX,0.25,0.0
+ED. CONTINENTAL SQUARE FARIA LIMA,0.09,0.0
+ED. MINNEAPOLIS,0.25,0.0
+ED. NAÇÕES UNIDAS,0.25,0.0
+ED. PEDRA GRANDE,0.0,0.0
+ED. PLATINUM,0.25,0.0
+ED. SEDE III,0.0,0.0
+ED. TORRE SUL,0.35,0.0
+EDGARD FACÓ,0.0,0.0
+EDIFICIO MARIA GABRIELA,1.0,0.0
+EDIFICIO MARIA GABRIELA - UNIDADE 81,,
+EDIFÍCIO SAN GUSTAVO,,
+ED_ARARAS,0.0,0.0
+EES 170 41,,
+EES 373 502,,
+ELIANE 72,0.0,0.0
+EMGEA,,
+EMPREENDIMENTO MONTE CASEIROS,,
+EMPREENDIMENTO PEDRO DE TOLEDO,,
+ENO52714,0.0,0.0
+ESA 140 63,,
+ESA-RN-35,,
+ESP78/79,0.5,0.2
+ESPACO EMPRESARIAL NAÇÕES UNIDAS 411,,
+ESPACO EMPRESARIAL NAÇÕES UNIDAS 412,,
+ESPECULATIVO - CAJAMAR II - Especulativo Cajamar,,
+ESSE_21,,
+ESSE_31,,
+ESSE_42,,
+ESSE_44,,
+Ed  Rachid Saliba,0.16,0.0
+Ed Avignon Box,0.0,0.0
+Ed Avignon Garagem,0.0,0.0
+Ed Brasílio Machado,0.36,0.14
+Ed Os Bandeirantes,0.0,0.0
+Ed Ouro Branco,0.0,0.0
+Ed. Alameda Franca APTO Nº 92,,
+Ed. Albatroz - Gaia Ar (vendido),0.0,0.0
+Ed. Angelica,0.0,0.0
+Ed. Artemis,0.31,0.15
+Ed. Banco Mercantil,0.0,0.0
+Ed. Beira Lorena,0.05,0.0
+Ed. Birmann 20,0.43,0.0
+Ed. Bueno Business Tower,0.0,0.0
+Ed. Canopus,0.11,0.0
+Ed. Epic,,
+Ed. Loreto APTO Nº 112,,
+Ed. Lumini,,
+Ed. Maestro Cardim,0.0,0.0
+Ed. Mario Garnero - Torre Sul,0.0,0.0
+Ed. Morumbi,0.28,0.0
+Ed. Nações Unidas Torre III,0.0,0.0
+Ed. Number One,0.08,0.0
+Ed. Palácio V Av,0.0,0.0
+Ed. Passarelli,0.15,0.01
+Ed. Paulista,0.06,0.0
+Ed. Penthouse 761,0.0,0.0
+Ed. Plaza I,0.0,0.0
+Ed. Pq Dona Ana Costa,0.0,0.0
+Ed. Praia de Botafogo,0.0,0.0
+Ed. Santo Alberto,0.0,0.0
+Ed. Sede,0.0,0.0
+Ed. Sumidouro,0.0,0.0
+Ed. The Corporate Macaé,0.0,0.0
+Ed. The One,0.1,0.0
+Ed. Torre Sul,0.33,0.0
+Ed. Tower Bridge Corporate,0.05,0.0
+Ed. Victor Malzoni - Torre Sul,0.0,0.0
+Ed. Villa Lobos,0.0,0.0
+Ed. Vitor Malzoni - Torre Sul,0.0,0.0
+Ed.Berlioz,0.0,0.0
+Ed.Century Tower,1.0,0.0
+Ed.Prime Savassi,0.06,0.0
+Ed.Renaissance,0.0,0.0
+Ed.San Paolo,0.0,0.0
+Ed.Severo Antunes,0.0,0.0
+Edfício Garagem,0.78,0.0
+Edgar Facó,0.0,0.0
+Edif. Conselheiro Paranaguá,0.0,0.0
+Edif. Result Corporate Plaza,0.0,0.0
+Edif. Vila Olimpia Corporate,0.0,0.0
+Edificio Atrium I,0.0,0.0
+Edificio Atrium IV,0.0,0.0
+Edificio Atrium VIII,0.0,0.0
+Edificio Avignon (Apartamento),0.0,0.0
+Edificio Banco Mercantil do Brasil,0.0,0.0
+Edificio Barra da Tijuca,0.0,0.0
+Edificio Brascan Century Corporate - Bloco C,0.0,0.0
+Edificio Business Center,0.0,0.0
+Edificio Comercial Badaró,0.0,0.0
+Edificio Comercial Cassio Resende II,,
+Edificio Conde Prates,0.0,0.0
+Edificio Demini,0.33,0.0
+Edificio Edel Trade Center,0.0,0.0
+Edificio Erika,0.0,0.0
+Edificio Faria Lima 4440,0.04,0.0
+Edificio Faria Lima 4441,0.0,0.0
+Edificio Galeria,0.34,0.05
+Edificio Harvard,0.0,0.0
+Edificio Joaquim Floriano,0.0,0.0
+Edificio Memorial Office Building,0.46,0.0
+Edificio Mikonos,0.0,0.0
+Edificio Murano,,
+Edificio Mykonos,0.27,0.0
+Edificio Padauri,0.12,0.0
+Edificio Porto Seguro,,
+Edificio Setin Tower,0.0,0.0
+Edificio Sevilha,0.0,0.0
+Edificio Spazio Centrale,0.0,0.0
+Edificio The Landmark,0.0,0.0
+Edificio Torre Almirante,0.72,0.0
+Edificio Torre Rio Sul,0.02,0.0
+Edificio Vitra,,
+Edificio de Escritório - Torre I (Sul),0.0,0.0
+Edificio de Escritório - Torre II (Central),0.0,0.0
+Edificio de Escritório - Torre III (Norte),0.0,0.0
+Edifícil Aplub,0.24,0.0
+Edifício Administrativo Natura São Paulo,0.0,0.0
+Edifício Aeroporto II,0.0,0.0
+Edifício Alameda Santos,,
+Edifício Almirante Barroso,0.0,0.0
+Edifício Antares 301,,
+Edifício Aspen,0.0,0.0
+Edifício Athenas,0.0,0.0
+Edifício Atlanta,0.0,0.0
+Edifício Atrium I,0.4,0.0
+Edifício Atrium IV,0.0,0.0
+Edifício Atrium Jardins,0.5,0.0
+Edifício Atrium VIII,0.0,0.0
+Edifício Banco Mercantil do Brasil,0.0,0.0
+Edifício Barão de Tefé,0.0,0.0
+Edifício Bela Paulista,0.0,0.0
+Edifício Botafogo,0.0,0.0
+Edifício Brasilinterpart,0.3,0.0
+Edifício Bueno Business Tower,0.0,0.0
+Edifício Burity,0.02,0.0
+Edifício Business Center,0.0,0.0
+Edifício Central Vila Olímpia,0.0,0.0
+Edifício Centro Executivo do Paço,1.0,0.0
+Edifício Cerp - Venezuela,0.0,0.0
+Edifício Chucri Zaidan,0.0,0.0
+Edifício Cidade Jardim,0.0,0.0
+"Edifício Condomínio São Luiz, Torre IV",0.0,0.0
+Edifício Conselheiro Paranaguá,0.0,0.0
+Edifício Corporate Evolution,0.0,0.0
+Edifício Corporate Park,0.0,0.0
+Edifício Daniela,0.0,0.0
+Edifício Delta Plaza,0.0,0.0
+Edifício Delta Plaza (Vendido),0.0,0.0
+Edifício Diogo Moreira,0.0,0.0
+Edifício Domo Corporate,0.16,0.0
+Edifício Eldorado Business Tower,0.1,0.0
+Edifício Emerald,,
+Edifício Empresarial Center I,0.0,0.0
+Edifício Empresarial Center II,0.49,0.0
+Edifício Faria Lima,0.0,0.0
+"Edifício Gilberto Salomão, 615",0.0,0.0
+Edifício Harvard,0.0,0.0
+Edifício Horizonte,0.0,0.0
+Edifício Icon Faria Lima,0.0,0.0
+Edifício Isla Victória,,
+Edifício Itower,0.38,0.0
+Edifício JF 100,0.5,0.0
+Edifício Jatobá,0.08,0.0
+Edifício Jatobá - 50%,0.1,0.0
+Edifício Joaquim Floriano,0.0,0.14
+Edifício Lagoa Corporate,0.03,0.0
+Edifício Leblon Office Tower,0.0,0.0
+Edifício Luana De Felício,,
+Edifício Madison,0.0,0.0
+Edifício Maria Cecília Lara Campos,0.0,0.0
+Edifício Metropolitan,0.0,0.0
+Edifício Millenium,0.0,0.0
+Edifício Mostardeiro,0.25,0.0
+Edifício Módulo Rebouças,0.0,0.0
+Edifício New York e Los Angeles,0.27,0.0
+Edifício Nova CEDAE,0.0,0.0
+Edifício Olympia Park,0.0,0.0
+Edifício Os Lusíadas (vendido),0.0,0.0
+Edifício Ourinvest,0.0,0.0
+Edifício Park Tower,0.0,0.0
+Edifício Park Tower - Torre ll,0.55,0.0
+Edifício Parque Paulista,0.0,0.0
+Edifício Paulista Star,0.62,0.0
+Edifício Platinum,0.0,0.0
+Edifício Plaza I,0.01,0.0
+Edifício Residencial Spézia,,
+Edifício Result Corporate Plaza,0.0,0.0
+Edifício Rio Guaiba,0.22,0.0
+Edifício Roberto Sampaio Ferreira,0.25,0.0
+Edifício San Paolo,0.0,0.0
+Edifício Santa Catarina,0.08,0.0
+Edifício Sede,0.0,0.0
+Edifício Setin Tower,0.25,0.0
+Edifício Sky Corporate,0.0,0.0
+Edifício Spazio JK,0.0,0.0
+Edifício Suarez Trade,0.75,0.0
+Edifício The One,0.0,0.0
+Edifício Torre Boa Vista,0.29,0.0
+Edifício Torre Vargas,0.0,0.0
+Edifício V House - Faria Lima,,
+Edifício Verbo Divino,0.43,0.0
+Edifício Vila Olimpia Corporate,0.5,0.0
+Edifício Vila Olímpia Corporate,0.0,0.0
+Edifício Volkswagen,0.0,0.0
+Edifício WT Morumbi - 25%,0.0,0.0
+Edifício comercial Raja Quick,0.0,0.0
+Edifício Érika,0.5,0.0
+Edíficio Celebration,0.0,0.0
+Edíficio Corporativo OI,0.0,0.0
+Edíficio EZ Towers - Torre B,0.07,0.0
+Edíficio Mario Garneiro Torre Sul,0.49,0.0
+Edíficio Pravda,0.0,0.0
+Edíficio River One,,
+Eldorado,0.02,0.0
+Eluma,0.0,0.0
+"Emp. Com. SC 401 Square Corporate T. Lagoa, Campeche, Jurerê",0.58,0.01
+Empreendimento Atento Del Castilho,0.0,0.0
+Empreendimento Comercial composto de Lojas e Conjuntos,,
+Empreendimento Ed. Moderna,0.0,0.0
+Empreendimento Momentum,0.0,0.0
+Empreendimento não residencial na cidade de Bonito - PE,,
+"Emprendimento EZ Towers, Torre B",0.09,0.0
+Eng Muzumbo  Mat 1085,0.0,0.0
+Engenho Mangabeira  Mat 576,0.0,0.0
+Engenho Meirim  Mat 1810,0.0,0.0
+Engenho Pelo Sinal  Mat 6506,0.0,0.0
+Escola,0.0,1.0
+Escola Equilíbrio Ltda EPP,0.0,0.5
+Escola Parque,0.0,0.0
+Escritório,0.0,0.0
+Esepeculativo Cajamar,,
+Esquina 98,0.9,0.0
+Estacionamento,0.0,0.0
+Estanplaza Berrini,0.5,0.0
+Estanplaza Funchal,0.5,0.0
+Estanplaza Ibirapuera,0.5,0.0
+Estanplaza International,0.5,0.0
+Estanplaza Nações Unidas,0.5,0.0
+Estivas I  Mat 551,0.0,0.0
+Estivas I  Mat 846,0.0,0.0
+Estivas II  Mat 550,0.0,0.0
+Estivas II  Mat 847,0.0,0.0
+Estoque Diversos,,
+Estrada Rio do A,0.0,0.0
+Estrada do Campo Limpo,,
+Estácio Salvador,0.0,0.0
+Eusébio Matoso,0.0,0.0
+Expansão Contagem,,
+Expansão Lubrax,,
+Extra  Peruíbe,0.0,0.0
+Extra  Praia Grande,0.0,0.0
+Extra  Sbc,0.0,0.0
+Extrema,0.0,0.0
+F Alecrim  Mat 779,0.0,0.0
+F Alvorada  Mat 11555,0.0,0.0
+F Alvorada  Mat 24900,0.0,0.0
+F Alvorada  Mat 48,0.0,0.0
+F Amazonas  Mat 1579,0.0,0.0
+F Azteca  Mat 221,0.0,0.0
+F Boa Esperança  Mat 788,0.0,0.0
+F BulhõesVale do Gramame  Mat 1192,0.0,0.0
+F Caboclo  Mat 24889,0.0,0.0
+F Cametá  Mat 565,0.0,0.0
+F Cametá  Mat 566,0.0,0.0
+F Cametá  Mat 567,0.0,0.0
+F Cametá  Mat 568,0.0,0.0
+F Cametá  Mat 569,0.0,0.0
+F Cametá  Mat 570,0.0,0.0
+F Cametá  Mat 571,0.0,0.0
+F Cametá  Mat 572,0.0,0.0
+F Cametá  Mat 573,0.0,0.0
+F Cametá  Mat 574,0.0,0.0
+F Cametá  Mat 575,0.0,0.0
+F Capricho  Mat 7713,0.0,0.0
+F CapuabaUrucutuba  Mat 6078,0.0,0.0
+F Catubaía  Mat 937,0.0,0.0
+F Catú ou Ouro Preto II  Mat 218,0.0,0.0
+F Cavaleiro  Mat 947,0.0,0.0
+F Colibri I  Mat 348,0.0,0.0
+F Colibri II  Mat 548,0.0,0.0
+F Diamantina  Mat 6293,0.0,0.0
+F Fênis V  Mat 1481,0.0,0.0
+F Fênis VI  Mat 1482,0.0,0.0
+F Fênix  Mat 1278,0.0,0.0
+F Fênix  Mat 1413,0.0,0.0
+F Fênix  Mat 6451,0.0,0.0
+F Fênix II  Mat 1446,0.0,0.0
+F Fênix III  Mat 1457,0.0,0.0
+F Fênix IV  Mat 1470,0.0,0.0
+F Ibura  Mat 65,0.0,0.0
+F Ilha  Mat 7817,0.0,0.0
+F Ilha do Maranhão   Mat 4183,0.0,0.0
+F Lagoa do Poço  Mat 1099,0.0,0.0
+F Lagoa do Poço  Mat 1100,0.0,0.0
+F Mangueira   Mat 4184,0.0,0.0
+F Marfim  Mat 1580,0.0,0.0
+F Muriaé I  Mat 387,0.0,0.0
+F Muriaé II  Mat 407,0.0,0.0
+F Muriaé II  Mat 5747,0.0,0.0
+F Muriaé II  Mat 6053,0.0,0.0
+F N Sra da Luz  Mat 190,0.0,0.0
+F N Sra do Carmo  Mat 1323,0.0,0.0
+F Nova Esperança  Mat 1999,0.0,0.0
+F Ouro Preto  Mat 950,0.0,0.0
+F Penedo  Mat 382,0.0,0.0
+F Popocas  Mat 16170,0.0,0.0
+F Popocas  Mat 16171,0.0,0.0
+F Poços  Mat 343,0.0,0.0
+F Quati I  Mat 276,0.0,0.0
+F Quati I  Mat 64,0.0,0.0
+F S Francisco  Mat 4530,0.0,0.0
+F S Luiz  Mat 107,0.0,0.0
+F S Pedro  Mat 24892,0.0,0.0
+F Santa Clara  Mat 924,0.0,0.0
+F Serrota  Mat 24897,0.0,0.0
+F Torre   Mat 4182,0.0,0.0
+F Três Irmãos  Mat 318,0.0,0.0
+F Utinga  Mat 24898,0.0,0.0
+F Vale do Gramame II  Mat 350,0.0,0.0
+F Vale do Popocas  Mat 1618,0.0,0.0
+F belo Horizonte  Mat 1246,0.0,0.0
+FAG 1097 41B,,
+FAG 539 14,,
+FAZ.BENEDITOII MAT15,0.0,0.0
+FAZ.CAMBALACHO MAT17,0.0,0.0
+FAZ.CANDIDA MAT25,0.0,0.0
+FAZ.EVA MAT23,0.0,0.0
+FAZ.JUNIOR MAT26,0.0,0.0
+FAZ.RIBEIRO MAT19,0.0,0.0
+FAZ.SANDRA MAT34,0.0,0.0
+FAZ.SERGIO MAT20,0.0,0.0
+FAZ.ST TEREZIN MAT16,0.0,0.0
+FAZ.TREVISAN MAT21,0.0,0.0
+FAZ.WALDIR MAT24,0.0,0.0
+FC 277 8,,
+FC 320 61,,
+FC 377 12,,
+FC 377 41,,
+FC 395 103,,
+FC 98 102,,
+FCRU 239 31,,
+FELICITTA_72440,,
+FHUR1 e 2 - SORRISO/MT,0.0,0.0
+FID 618 41,,
+FID 74 11,,
+FIR 128 112,,
+FIS 226 44,,
+"FK Sala 1401, 1402, 1408, 1409, 1410 - FK Offices",,
+FL 3500,0.0,0.0
+FL Residence,0.0,0.0
+FLAMBOYANT,1.0,0.0
+FLOR1,0.0,0.0
+FLÓRIDA 206,0.0,0.0
+FM Logistic Canoas,0.0,0.0
+FM Logistic Resende,0.0,0.0
+FORTALEZA,0.0,0.0
+FORTALEZA-CEN,0.0,0.0
+FR 1314 52,,
+FR 1329 101,,
+FR 1331 92,,
+FR 1581 21,,
+FR 162 121,,
+FR 1645 82,,
+FR 35 10,,
+FR 35 141,,
+FR 425 401,,
+FR 432 2,,
+FR 435 101,,
+FR 435 111,,
+FR 519 71,,
+FR 917 102,,
+FRANCA 102,0.0,0.0
+FREGUESIA DO O,0.0,0.0
+FREI 812 704,,
+Fabrica Pouso Alegre,,
+Família Freguesia do Ó - 11B,,
+Família Freguesia do Ó - 11C,,
+Família Freguesia do Ó - 12A,,
+Família Freguesia do Ó - 12C,,
+Família Freguesia do Ó - 13A,,
+Família Freguesia do Ó - 14A,,
+Família Freguesia do Ó - 14B,,
+Família Freguesia do Ó - 15A,,
+Família Freguesia do Ó - 16A,,
+Família Freguesia do Ó - 16B,,
+Família Freguesia do Ó - 16C,,
+Família Freguesia do Ó - 21B,,
+Família Freguesia do Ó - 21C,,
+Família Freguesia do Ó - 22A,,
+Família Freguesia do Ó - 22B,,
+Família Freguesia do Ó - 23A,,
+Família Freguesia do Ó - 24A,,
+Família Freguesia do Ó - 24B,,
+Família Freguesia do Ó - 24C,,
+Família Freguesia do Ó - 25A,,
+Família Freguesia do Ó - 26B,,
+Família Freguesia do Ó - 26C,,
+Família Freguesia do Ó - 31C,,
+Família Freguesia do Ó - 32B,,
+Família Freguesia do Ó - 32C,,
+Família Freguesia do Ó - 33A,,
+Família Freguesia do Ó - 33C,,
+Família Freguesia do Ó - 34B,,
+Família Freguesia do Ó - 35A,,
+Família Freguesia do Ó - 35B,,
+Família Freguesia do Ó - 36A,,
+Família Freguesia do Ó - 41A,,
+Família Freguesia do Ó - 41B,,
+Família Freguesia do Ó - 41C,,
+Família Freguesia do Ó - 42A,,
+Família Freguesia do Ó - 42C,,
+Família Freguesia do Ó - 43B,,
+Família Freguesia do Ó - 44A,,
+Família Freguesia do Ó - 44B,,
+Família Freguesia do Ó - 45A,,
+Família Freguesia do Ó - 45C,,
+Família Freguesia do Ó - 46A,,
+Família Freguesia do Ó - 46B,,
+Família Freguesia do Ó - 46C,,
+Família Freguesia do Ó - 51A,,
+Família Freguesia do Ó - 51B,,
+Família Freguesia do Ó - 52A,,
+Família Freguesia do Ó - 52C,,
+Família Freguesia do Ó - 53A,,
+Família Freguesia do Ó - 53B,,
+Família Freguesia do Ó - 55A,,
+Família Freguesia do Ó - 55B,,
+Família Freguesia do Ó - 55C,,
+Família Freguesia do Ó - 56C,,
+Família Freguesia do Ó - 61A,,
+Família Freguesia do Ó - 61B,,
+Família Freguesia do Ó - 61C,,
+Família Freguesia do Ó - 62B,,
+Família Freguesia do Ó - 62C,,
+Família Freguesia do Ó - 64B,,
+Família Freguesia do Ó - 65B,,
+Família Freguesia do Ó - 66A,,
+Família Freguesia do Ó - 66C,,
+Família Freguesia do Ó - 71B,,
+Família Freguesia do Ó - 72B,,
+Família Freguesia do Ó - 73A,,
+Família Freguesia do Ó - 73B,,
+Família Freguesia do Ó - 73C,,
+Família Freguesia do Ó - 75B,,
+Família Freguesia do Ó - 75C,,
+Família Freguesia do Ó - 76A,,
+Família Freguesia do Ó - 76B,,
+Família Freguesia do Ó - 76C,,
+Família Freguesia do Ó - 81C,,
+Família Freguesia do Ó - 82C,,
+Família Freguesia do Ó - 83B,,
+Família Freguesia do Ó - 83C,,
+Família Freguesia do Ó - 84B,,
+Família Freguesia do Ó - 85B,,
+Família Freguesia do Ó - 85C,,
+Família Freguesia do Ó - 86B,,
+Família Freguesia do Ó - 86C,,
+Fazenda Boarete,0.0,0.0
+Fazenda Cachoeira,0.0,0.0
+Fazenda Morada da Prata,0.0,0.0
+Fazenda Santo Izidro - Gleba A,0.0,0.0
+Fazenda Santo Izidro - Gleba B,0.0,0.0
+Fazenda São Pedro da Aldeia,0.0,0.0
+Fazenda São Pedro do Pará,0.0,0.0
+Fazenda São Roberto II,0.0,0.0
+Fazenda Vale do SOL,0.0,0.0
+FedEx Guarulhos,0.0,0.0
+"Felipe Schimidt, 605",0.0,0.0
+Fenix VII  Mat 1487,0.0,0.0
+Fenix VIII  Mat 541,0.0,0.0
+Fernão Dias Business Park,0.0,0.0
+Ferraz de Vasconcelos,0.0,0.0
+Filial Francisco Beltrao,0.0,0.0
+Filial Jataí,0.0,0.0
+Filial Medianeira,0.0,0.0
+Filial Nova Ponte,0.0,0.0
+Filial Paranaguá,0.0,0.0
+Filial Pato Branco,0.0,0.0
+Filial Uberlândia,0.0,0.0
+Flamengo,0.77,0.0
+Florentina I  Mat 2352,0.0,0.0
+Florentina II  Mat 2354,0.0,0.0
+Florianópolis - SC,0.0,0.0
+Florianópolis Shopping Center,0.02,0.1
+Focus Business Center,,
+Forma Bens Extrema,0.48,0.0
+Frad.E - Unid. 101 - Bl 1 - Village Acqua,,
+Frad.E - Unid. 101 - Bl 1 - Village Natura,,
+Frad.E - Unid. 101 - Bl 10 - Village Acqua,,
+Frad.E - Unid. 101 - Bl 11 - Village Acqua,,
+Frad.E - Unid. 101 - Bl 2 - Village Maris,,
+Frad.E - Unid. 101 - Bl 3 - Village Acqua,,
+Frad.E - Unid. 101 - Bl 5 - Village Acqua,,
+Frad.E - Unid. 101 - Bl 9 - Village Acqua,,
+Frad.E - Unid. 102 - Bl 11 - Village Acqua,,
+Frad.E - Unid. 102 - Bl 2 - Village Maris,,
+Frad.E - Unid. 102 - Bl 3 - Village Acqua,,
+Frad.E - Unid. 102 - Bl 3 - Village Maris,,
+Frad.E - Unid. 102 - Bl 4 - Village Natura,,
+Frad.E - Unid. 102 - Bl 5 - Village Acqua,,
+Frad.E - Unid. 102 - Bl 5 - Village Natura,,
+Frad.E - Unid. 102 - Bl 9 - Village Acqua,,
+Frad.E - Unid. 103 - Bl 4 - Village Natura,,
+Frad.E - Unid. 201 - Bl 1 - Village Natura,,
+Frad.E - Unid. 201 - Bl 2 - Village Maris,,
+Frad.E - Unid. 201 - Bl 4 - Village Acqua,,
+Frad.E - Unid. 201 - Bl 5 - Village Acqua,,
+Frad.E - Unid. 201 - Bl 5 - Village Natura,,
+Frad.E - Unid. 201 - Bl 6 - Village Natura,,
+Frad.E - Unid. 201 - Bl 9 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 1 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 11 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 2 - Village Maris,,
+Frad.E - Unid. 202 - Bl 3 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 4 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 4 - Village Maris,,
+Frad.E - Unid. 202 - Bl 5 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 8 - Village Acqua,,
+Frad.E - Unid. 202 - Bl 9 - Village Acqua,,
+Frad.E - Unid. 202- Bl 3 - Village Natura,,
+Frad.E - Unid. 203 - Bl 3 - Village Natura,,
+Frad.E - Unid. 203 - Bl 5 - Village Natura,,
+Frad.E - Unid. 203 - Bl 6 - Village Natura,,
+Frad.E - Unid. 204 - Bl 4 - Village Natura,,
+Frad.E - Unid. 204 - Bl 5 - Village Natura,,
+Frad.E - Unid. 301 - Bl 2 - Village Maris,,
+Frad.E - Unid. 301 - Bl 3 - Village Natura,,
+Frad.E - Unid. 301 - Bl 4 - Village Acqua,,
+Frad.E - Unid. 301 - Bl 4 - Village Natura,,
+Frad.E - Unid. 301 - Bl 5 - Village Natura,,
+Frad.E - Unid. 301 - Bl 6 - Village Maris,,
+Frad.E - Unid. 301 - Bl 8 - Village Acqua,,
+Frad.E - Unid. 302 - Bl 5 - Village Natura,,
+"Franca Shopping - 0,3673897836%",0.02,0.0
+Freguesia do Ó,0.0,0.0
+Fusion,,
+Fábrica Goiânia,0.0,0.0
+Fábrica Pouso Alegre,,
+Fênix IX  Mat 1222,0.0,0.0
+Fênix X  Mat 1223,0.0,0.0
+GA 440 403,,
+GABRIEL 11,0.0,0.0
+GAI2_103,,
+GAI2_104,,
+GAI2_204,,
+GAI2_205,,
+GAI2_206,,
+GAI2_301,,
+GAI2_305,,
+GAI2_306,,
+GAI2_307,,
+GAI2_402,,
+GAI2_403,,
+GAI2_502,,
+GAI2_503,,
+GAI2_506,,
+GAI2_508,,
+GAI2_602,,
+GAI2_703,,
+GAI2_704,,
+GAI2_803,,
+GAI2_804,,
+GAI2_903,,
+GAI2_904,,
+GAI2_905,,
+GAI3_202,,
+GAI3_203,,
+GAI3_301,,
+GAI3_302,,
+GAI3_304,,
+GAI3_306,,
+GAI3_401,,
+GAI3_402,,
+GAI3_404,,
+GAI3_601,,
+GAI3_602,,
+GAI3_605,,
+GAI3_606,,
+GAI3_702,,
+GAI3_703,,
+GAI3_901,,
+GAI3_904,,
+GAI3_908,,
+GAI4_206,,
+GAI4_304,,
+GAI4_305,,
+GAI4_308,,
+GAI4_605,,
+GAI4_701,,
+GAI4_901,,
+GAI4_905,,
+GAI4_906,,
+GAI5_201,,
+GAI5_202,,
+GAI5_204,,
+GAI5_205,,
+GAI5_303,,
+GAI5_305,,
+GAI5_306,,
+GAI5_502,,
+GAI5_503,,
+GAI5_505,,
+GAI5_508,,
+GAI5_601,,
+GAI5_603,,
+GAI5_704,,
+GAI5_705,,
+GAI5_706,,
+GAI5_801,,
+GAI5_803,,
+GAI5_805,,
+GAI5_806,,
+GAI5_901,,
+GAI5_903,,
+GAI5_906,,
+GAIA_203,,
+GAIA_205,,
+GAIA_304,,
+GAIA_306,,
+GAIA_403,,
+GAIA_406,,
+GAIA_408,,
+GAIA_504,,
+GAIA_508,,
+GAIA_708,,
+GAIA_803,,
+GAIA_804,,
+GAIA_808,,
+GAIA_903,,
+GAIA_904,,
+GAIA_905,,
+GAIA_906,,
+GALPÃO PERIMETRAL,1.0,0.0
+GC 280 304,,
+GC 968 61,,
+GCMN1 - SERRANÓPOLIS/GO,0.0,0.0
+GCMN2 - SERRANÓPOLIS/GO,0.0,0.0
+GDS 224 82,,
+GEP 121 703,,
+GGM 8 1203F,,
+GGM 8 1702,,
+GIR 721 21,,
+GIR 730 142,,
+GIR 770 61,,
+GLEBA - G,0.0,0.0
+GLICERIO,0.0,0.0
+GLP A 01,0.33,0.0
+GLP A 02,0.33,0.0
+GLP A 03,0.33,0.0
+GLP A 04,0.0,0.0
+GLP A 05,0.33,0.0
+GLP A 06,0.0,0.0
+GLP A 07,0.0,0.0
+GLP A 08,0.33,0.0
+GLP A 09,0.33,0.0
+GLP 01 01,0.0,0.0
+GLP 01 02,0.0,0.0
+GLP B 01,0.33,0.0
+GLP B 02,0.0,0.0
+GLP B 03,0.0,0.0
+GLP C 01,0.0,0.0
+GLP C 02,0.0,0.0
+GLP C 03,0.0,0.0
+GLP C 04,0.0,0.0
+GLP C 05,0.0,0.0
+GLP C 06,0.0,0.0
+GLP C 07,0.0,0.0
+GLP C 08,0.0,0.0
+GLP C 09,0.0,0.0
+GLP C 10,0.0,0.0
+GLP C 11,0.0,0.0
+GLP C 12,0.0,0.0
+GLP D 01,0.0,0.0
+GLP D 02,0.0,0.0
+GLP D 03,0.0,0.0
+GLP GALP 02,0.0,0.0
+GLP GALP 03,0.0,0.0
+GMM 222 71,,
+GMM 362 41,,
+GOIÂNIA,0.0,0.0
+GOLGI BETIM,0.0,0.0
+GOLGI BRASÍLIA,0.05,0.0
+GOLGI CONTAGEM,0.0,0.0
+GOLGI DUQUE DE CAXIAS,0.46,0.0
+GOLGI JUNDIAÍ,0.25,0.0
+GOLGI MAUÁ,0.0,0.0
+GOLGI RODOANEL DUTRA,0.44,0.0
+GOLGI RODOANEL MAUÁ,0.0,0.0
+GOLGI SEROPÉDICA,0.0,0.0
+GOY-RJ-13799,,
+GOY-RJ-13800,,
+GPA - Brasília,0.0,0.0
+GPA - CD,0.0,0.0
+GPA - Campinas,0.0,0.0
+GPA - Guarujá,0.0,0.0
+GPA - Rebouças,0.0,0.0
+GPA - Recife,0.0,0.0
+GPA - São Bernardo do Campo,0.0,0.0
+GPA - São Paulo,0.0,0.0
+GPA CD04 São Paulo,0.0,0.0
+GPA CD06 São Paulo,0.0,0.0
+GPA VILA ROMANA,0.0,0.0
+GR Louveira,0.04,0.0
+GRA 148 111,,
+GRA 148 121,,
+GRA 148 71,,
+GRA 379 33,,
+GRA 379 63,,
+GRANJA VIANA,0.0,0.0
+GREEN TOWERS  BRASILIA  I,0.0,0.0
+GREEN TOWERS  BRASILIA  II,0.0,0.0
+GREEN TOWERS  BRASILIA  III,0.0,0.0
+GREEN TOWERS  BRASILIA  IV,0.0,0.0
+GREEN TOWERS  BRASILIA  V,0.0,0.0
+GREEN TOWERS  BRASILIA  VI,0.0,0.0
+GSE 205 501,,
+GUA 77 113,,
+GUA-SP-97185,,
+GUA-SP-97186,,
+GUA-SP-97187,,
+GUA-SP-97188,,
+GUA-SP-97189,,
+GUA-SP-97190,,
+GUA-SP-97191,,
+GUAI 758 134,,
+GUAIANASES,0.0,0.0
+GUAR 100 84,,
+GUARATINGUETA.,0.0,0.0
+GUARUJA-DOM PEDRO,0.0,0.0
+GUARULHOS,0.0,0.0
+GUAT 468 32,,
+GVF 564 303,,
+GVT 183 52,,
+GVT 879 203,,
+GVT Curitiba,0.0,0.0
+Galpão,1.0,0.0
+Galpão - Araucária,0.0,0.0
+Galpão - Extrema,0.02,0.0
+Galpão - Guarulhos,0.0,0.0
+Galpão - Itapevi,0.06,0.0
+Galpão - Mauá,0.0,0.0
+Galpão - Modulo - Extrema,0.03,0.0
+Galpão - Pirituba,0.0,0.0
+Galpão - Sao Bernardo,1.0,0.0
+Galpão Air Liquide,0.0,0.0
+Galpão Aptiv,0.0,0.0
+Galpão BRU,0.0,0.0
+Galpão BTS/Cremer,0.0,0.0
+Galpão Camaçari,0.0,0.0
+Galpão Campinas,0.0,0.0
+Galpão Cariacica,0.0,0.0
+Galpão Caxias Park,0.0,0.0
+Galpão CityGate Cabreúva,0.0,0.0
+Galpão Cotia,0.0,0.0
+Galpão Dia%Americana,0.0,0.0
+Galpão Dia%Ribeirão,0.0,0.0
+Galpão Eldorado,0.0,0.0
+Galpão Extrema,0.0,0.0
+Galpão GRU,0.0,0.0
+Galpão Guarulhos,0.0,0.0
+Galpão Hortolândia I,0.0,0.0
+Galpão Hortolândia III,0.0,0.0
+Galpão Industrail Femsa,0.0,0.0
+Galpão Industrail Koch,0.0,0.0
+Galpão Industrial,0.25,0.0
+Galpão Industrial Ceratti,0.0,0.0
+Galpão Industrial Femsa,0.0,0.0
+Galpão Industrial Itaitinga,0.0,0.0
+Galpão Industrial Itambé,0.0,0.0
+Galpão Industrial Jaraguá do Sul,0.0,0.0
+Galpão Industrial Koch,0.0,0.0
+Galpão Industrial Magna,0.0,0.0
+Galpão Industrial Supermarket,0.0,0.0
+Galpão Itapeva,0.0,0.0
+Galpão Itapevi,0.0,0.0
+Galpão Jundiaí,0.0,0.0
+Galpão KSM,0.0,0.0
+Galpão KSR,0.0,0.0
+Galpão Logístico Arujá - SP,0.0,0.0
+Galpão Logístico Barueri - SP,0.0,0.0
+Galpão Logístico Betim - MG,1.0,0.0
+Galpão Logístico Contagem - MG,0.0,0.0
+Galpão Logístico Itapevi - SP,0.08,0.0
+Galpão Logístico Quatro Barras,0.0,0.0
+Galpão Logístico SBC - SP,0.0,0.0
+Galpão Logístico Santo André - SP,0.0,0.0
+Galpão Logístico São José dos Pinhais - PR,0.0,0.0
+Galpão Nova Odessa,0.0,0.0
+Galpão Perimetral NT,0.0,0.0
+Galpão Pirituba,0.0,0.0
+Galpão Resende,0.0,0.0
+Galpão Santa Luzia,0.0,0.0
+Galpão TOK$STOK,0.0,0.0
+Galpão Via Varejo,0.0,0.0
+Galpão- Itapevi,0.15,0.0
+Galpôes em Guarulhos - Airport Town,0.0,0.0
+"Galpões Jundiaí Bussiness Park 3, 5 e 6",0.0,0.0
+Garagem Copacabana,0.0,0.0
+Gaspar - SC,0.0,0.0
+General Camara,0.0,0.0
+Gerdau Rio de Janeiro,0.0,0.0
+Gift,,
+Gleba Alvorada  Mat 9532,0.0,0.0
+Gleba Barreiro  Mat 8244,0.0,0.0
+Gleba Capeva  Mat 7189,0.0,0.0
+Gleba Cercado  Mat 7188,0.0,0.0
+Gleba G,0.08,0.0
+Gleba Honda  Mat 6646,0.0,0.0
+Gleba Ind A  Mat 12299,0.0,0.0
+Gleba Ind B  Mat 12300,0.0,0.0
+Gleba Ind C  Mat 12304,0.0,0.0
+Gleba Mutum  Mat 9533,0.0,0.0
+Gleba Pontal  Mat 6644,0.0,0.0
+Gleba Ponte Nova  Mat 9534,0.0,0.0
+Gleba Ponte Velha  Mat 7699,0.0,0.0
+Gleba Ribeirãozinho  Mat 6645,0.0,0.0
+Gleba Santa Cruz  Mat 7187,0.0,0.0
+Gleba Vacaria  Mat 6647,0.0,0.0
+Global Jundiaí,0.02,0.0
+Globo,0.0,0.0
+"Goiabeiras Shopping - 53,99%",0.23,0.23
+Goiânia,0.0,0.0
+Goiânia  Pq Amazônia- SENDAS_ASSAI,0.0,0.0
+Goiânia Jd. Europa  - SENDAS_ASSAI,0.0,0.0
+Goiânia St Central - SENDAS_ASSAI,0.0,0.0
+Golden Corporate,0.38,0.0
+Golden Green 403,0.0,0.0
+Gran Estanplaza,0.5,0.0
+Grand Plaza Shopping,0.02,0.11
+Granja Bela Vista  Mat 24894,0.0,0.0
+Granja Eufrasio   Mat 9365,0.0,0.0
+Granja N Sra de Lourdes  Mat 24902,0.0,0.0
+Granja Nery  Mat 3694,0.0,0.0
+Granja S Francisco  Mat 5192,0.0,0.0
+Granja S Francisco  Mat 6108,0.0,0.0
+Granja S Jorge  Antiga Serrota  Mat 268,0.0,0.0
+Granja S Jorge  Mat 269,0.0,0.0
+Granja S Severino  Mat 1733,0.0,0.0
+Granja Ser de Santa Rosa  Mat 528,0.0,0.0
+Granja Viana,0.0,0.0
+Gravataí Shopping Center,0.21,0.29
+Guaianases,0.0,0.0
+Guaianazes,0.0,0.0
+Guanambi,0.0,0.0
+Guarani,0.0,0.0
+Guarapiranga,0.0,0.0
+Guaratinguetá,0.0,0.0
+Guarulhos,0.0,0.0
+H1191365,1.0,0.0
+HAR 765 91,,
+HAV 292 82,,
+HDU 68 405,,
+HEL 151 93,,
+HERING E SANTA CRUZ,0.0,0.0
+HIG 604 61,,
+HIG 968 24B,,
+HL 1141 92,,
+HL 971 14,,
+HL 999 112,,
+HNO 131 62,,
+HP 26 71,,
+HU 184 43,,
+HUB Natura Itupeva,0.0,0.0
+HUGO CONTI 101,0.0,0.0
+HUM 18 302,,
+HUM 436 1002,,
+Haddock  Lobo,0.0,0.0
+Haddock Lobo,0.67,1.0
+Hebraica,0.0,0.0
+Helbor 214,,
+Helbor 215,,
+Helbor 405,,
+Helbor 407,,
+Highlight e Spotlight - Jardim Botafogo,,
+Highline,,
+Holiday Inn,,
+Hortolândia - SP,0.0,0.0
+Hospital BDW Espaço SP LTDA,1.0,0.0
+Hospital Criança,0.0,0.0
+Hospital Ifor,0.0,0.0
+Hospital NSLourdes,0.0,0.0
+Hospital Sabará,0.0,0.0
+Hospital São Luiz - BLOCO A,0.0,0.0
+Hospital São Luiz - BLOCO B,0.0,0.0
+Hospital São Luiz - BLOCO C e E,0.0,0.0
+Hospital São Luiz - BLOCO D,0.0,0.0
+Hospital Unimed Sul Capixaba,0.0,0.0
+Hospital da Criança,0.0,0.0
+Hotel,0.0,0.0
+Hotel Indaiatuba Plaza,0.0,0.0
+Hotel Novo Mundo,0.03,0.0
+Hotel Sheraton Porto Alegre,0.0,0.0
+Hsul Garibaldi,0.0,0.0
+Hsul POA,0.0,0.0
+Hub - Coliving,,
+I Fashion Outlet - 49%,0.02,0.09
+IA 84 103,,
+IBMEC - RJ,0.0,0.0
+ICOMAP,0.65,0.0
+ICONO PARQUE,,
+IDEIAS NET,,
+IGARASSU,0.0,0.0
+IGLOO CURITIBA - Torre A - unid 246,,
+IGUACU,0.0,0.0
+IM. BSD,0.0,0.0
+IM. CAMAÇARI,0.0,0.0
+IM. CASTANHA,0.0,0.0
+IM. CURITIBA,0.0,0.0
+IM. IGUATU,0.0,0.0
+IM. PALMAS,0.0,0.0
+IM. PETROPOL,0.0,0.0
+IM. TAUBATE,0.0,0.0
+IM.ARAPIRACA,0.0,0.0
+IM.GUANAMBI,0.0,0.0
+IMO ITAPEVA - CD Panasonic,0.0,0.0
+IMOVEL 1 - ESTALEIRO,0.0,0.0
+IMP_151A,,
+IMP_161A,,
+IMP_161B,,
+IMP_163A,,
+IMP_163B,,
+IMP_21B,,
+IMÓVEL  1,1.0,0.0
+IMÓVEL 1,1.0,0.0
+IMÓVEL 2,1.0,0.0
+IMÓVEL A MATRICULA 80.150,0.0,0.0
+IMÓVEL B MATRICULA 123.192,0.0,0.0
+IMÓVEL CONASA,,
+IMÓVEL DEL CASTILHO,,
+IMÓVEL: MT 104.106,0.33,0.0
+IMÓVEL: MT 108.774,0.0,0.0
+IMÓVEL: MT 344.309,1.0,0.0
+IMÓVEL: MT 39.042,1.0,0.0
+IMÓVEL: MT 56.878,1.0,0.0
+IN 532 61,,
+IN 737 121,,
+IN 737 31,,
+IN 758 21,,
+IN 770 21A,,
+IN 902 11B,,
+INA 17 11,,
+INCONF 1101,0.0,0.0
+INCONF 2001,0.0,0.0
+INCONF 901,0.0,0.0
+INCONF B2101,0.0,0.0
+IND 458 61,,
+INGL1,0.0,0.0
+INH 635 21,,
+INH 737 21,,
+INH 873 51,,
+INTERNACIONAL RIO,0.46,0.0
+IRE 2030 30,,
+IRI 570 81,,
+ISA209,0.5,0.0
+ITA 198 51,,
+ITA 198 81,,
+ITA 323 122,,
+ITA 350 05,,
+ITA 869 12,,
+ITA 881 12,,
+ITAIM CASA,0.0,0.0
+ITAPOÃ 83,0.0,0.0
+ITU 1329 71,,
+ITU 745 41,,
+ITU 745 42,,
+ITU 929 101,,
+IVA - SANTOS,,
+Ibis Budget Blubenau,0.0,0.0
+Ibis Budget Blumenau,0.0,0.0
+Ibis Budget Curitiba Centro,0.0,0.0
+Ibis Budget Jardins,0.5,0.0
+Ibis Budget Paulista,0.5,0.0
+Ibis Canoas,0.0,0.0
+Ibis Chapecó,0.0,0.0
+Ibis Expo,0.0,0.0
+Ibis Foz,0.0,0.0
+Ibis Londrina,0.0,0.0
+Ibis Styles Faria Lima,0.5,0.0
+Ibis São Paulo Morumbi,0.25,0.0
+Ibis São Paulo Paulista,0.5,0.0
+Icono Parque,,
+Iguatemi,0.0,0.0
+Iguatu,0.0,0.0
+Ilha Grande  Mat 1135,0.0,0.0
+Ilha Plaza,0.03,0.25
+Ilha Plaza Shopping,0.05,0.26
+Iluminato,,
+Imbiribeira  Mat 942,0.0,0.0
+Imirim,0.0,0.0
+Imovel 1,0.0,0.0
+Imovel 2,0.0,0.0
+Imovel 3,0.0,0.0
+Imovel Aplub 10º,0.0,0.0
+Imovel Aplub 11º,0.0,0.0
+Imovel Aplub 5º,1.0,0.0
+Imovel Aplub 6º,0.0,0.0
+Imovel Aplub 7º,0.0,0.0
+Imovel Aplub 8º,0.0,0.0
+Imovel Aplub 9º,0.0,0.0
+Imuna  Mat 10456,0.0,0.0
+Imóveis Barra da Tijuca,0.0,0.0
+Imóvel 1,0.14,0.12
+Imóvel 2,0.0,0.44
+Imóvel 3,0.0,0.44
+Imóvel 4,0.0,0.44
+Imóvel 5,0.0,0.44
+Imóvel 6,0.0,0.44
+Imóvel 7,0.0,0.44
+Imóvel 8,0.0,0.0
+Imóvel 9,0.0,0.0
+"Imóvel A, TERRENO FELTRINS",,
+"Imóvel B, TERRENO FELTRINS",,
+Imóvel Campo Grande,0.0,0.0
+Imóvel Duque de Caxias - Galpão 01,0.0,0.0
+Imóvel Juiz de Fora,0.0,0.0
+Imóvel RB 115,0.0,0.0
+Imóvel Retrofit,0.0,0.0
+Imóvel Tamboré 14º Andar,0.0,0.0
+Imóvel Tamboré 15º Andar,0.0,0.0
+Imóvel Tamboré 9º Andar,0.0,0.0
+Imóvel Urbano Belo Horizonte MG,0.0,0.0
+Imóvel Urbano Rio Claro SP,0.0,0.0
+Imóvel Vila Madalena,0.0,0.0
+Imóvel sede,0.0,0.0
+Inbrands,,
+Inconfidência,0.0,0.0
+Indaial - SC,0.0,0.0
+Indaiatuba,0.24,0.0
+Indaiatuba Predio,0.0,0.0
+Indianópolis,0.0,0.0
+Industrial,0.0,0.0
+Innovitá,,
+Insper Instituto de Pesquisa,0.0,0.02
+Intercity Nações Unidas,0.5,0.0
+Intercity Paulista,0.67,0.0
+Intercity Premium Ibirapuera,0.5,0.0
+Internacional Shopping,0.02,0.17
+Ipanema,0.0,0.0
+Ipatinga - Jequitibá,0.0,0.0
+Itabira,0.0,0.0
+Itaboraí,0.0,0.0
+Itacema APTO Nº 61,,
+Itaim São Paulo By Atlantica,0.25,0.0
+Itajaí - SC,0.0,0.0
+Italianos,0.0,1.0
+Itapema - SC,0.0,0.0
+Itapetinga,0.0,0.0
+Itapevi,1.0,0.0
+Itaquaquecetuba,0.0,0.0
+Itaquera,0.0,0.0
+Itatiaia,0.04,0.0
+Itau Agências,1.0,0.0
+Itaú Raposo,1.0,0.0
+Itumbiara - Fase 1,0.0,0.0
+Itupeva,0.08,0.0
+JA 975 22,,
+JABA1,0.0,0.0
+JABAQUARA,0.0,0.0
+JACAREPAGUA,,
+JACI 227 61,,
+JAGUARE,0.0,0.0
+JAM 337 13,,
+JAM 457 81,,
+JAM 497 11,,
+JAM 522 94,,
+JAN 647 93,,
+JAN 647 94,,
+JAN 79 61,,
+JARI 111635,0.0,0.0
+JARI 111636,0.0,0.0
+JARI 111637,0.0,0.0
+JARI 111638,0.0,0.0
+JARI 111639,0.0,0.0
+JARI 111640,0.0,0.0
+JAS 1330 101,,
+JATOBÁ,0.0,0.0
+JAU 1325 52,,
+JAU 1486 9,,
+JAU 1817 61,,
+JAU 1863 72,,
+JAU 585 62,,
+JAU 588 101,,
+JAU 712 101,,
+JAU 88 133,,
+JAU 88 54,,
+JAU 88 73,,
+JAÇANÃ,0.0,0.0
+JCA 892 23B,,
+JCO 227 72,,
+JCT 231 32,,
+JCT 557 12,,
+JCT 657 201,,
+JD AVIAÇÃO,,
+JEFER PRODUTOS SIDERÚRGICOS - EIRELI,0.0,0.0
+JEL 1075 31,,
+JEL 1095 104,,
+JEL 1095 63,,
+JEL 1516 24,,
+JEL 1601 23,,
+JEL 1601 74,,
+JEL 1656 91,,
+JEL 1751 11,,
+JEL 177 41,,
+JEL 747 112,,
+JEL 834 41,,
+JES 719 44,,
+JF 162 31,,
+JF 408 11,,
+JF 408 122,,
+JF 586 181,,
+JF 626 801,,
+JF 76 52,,
+JF 76 61,,
+JF 76 92,,
+JHSF Aeroporto,,
+JK FINANCIAL CENTER,0.0,0.0
+JK1600,0.0,0.0
+JK18,0.0,0.0
+JK180,0.0,0.0
+JL 215 201,,
+JL 659 161,,
+JL 695 121,,
+JL 713 121,,
+JLI 215 201,,
+JLI 47 101,,
+JLI 95 507,,
+JLO 713 61,,
+JLO 754 82,,
+JML 1055 4,,
+JML 1055 5,,
+JML 1377 61,,
+JML 1377 92,,
+JML 20 1004,,
+JML 20 1007,,
+JML 463 73,,
+JML 852 21,,
+JML 852 71,,
+JML 880 22,,
+JMO 942 102,,
+JMO 975 124,,
+JOA 99 61,,
+JOE 60 806,,
+JOE 60 808,,
+JOI 55 2104,,
+JOÃO DIAS,0.0,0.0
+JRA 87 5,,
+JRP 701 101,,
+JTA 1057 44,,
+JUIZ DE FORA,0.0,0.0
+JUNDIAÍ,0.0,0.0
+JUR 367 31,,
+JUR 45 31,,
+JUR 520 64,,
+JUR 80 26,,
+Jabaquara,0.0,0.0
+Jaguarema do Meio  Mat 2510,0.0,0.0
+Jaguaribe  Mat 1656,0.0,0.0
+Jaguaré,0.0,0.0
+Jaraguá,0.0,0.0
+Jaraguá do Sul - SC,0.0,0.0
+Jardim Paulistano,0.0,0.0
+Jardim da Saúde,0.0,0.0
+Jd Paulistano,0.0,0.0
+Jequié,0.0,0.0
+Jequié - SENDAS_ASSAI,0.0,0.0
+Joaquim Floriano,1.0,0.0
+Joinville - SC,0.0,0.0
+João Dias,0.0,0.0
+João Duro  Mat 169,0.0,0.0
+João Marques  Mat 306,0.0,0.0
+Jundiai Cica,0.0,0.0
+Jundiapeba,0.0,0.0
+Jundiaí Industrial Park,0.0,0.0
+KE1103AC,,
+KE1103AV,,
+KE1203BC,,
+KE1203BV,,
+KERR1,1.0,0.0
+KEY1001B,,
+KEY1002A,,
+KEY101A,,
+KEY101B,,
+KEY1102A,,
+KEY1302A,,
+KEY1303A,,
+KEY1403A,,
+KEY1403B,,
+KEY1503B,,
+KEY1702B,,
+KEY1703A,,
+KEY1802B,,
+KEY1803B,,
+KEY203B,,
+KEY302B,,
+KEY303B,,
+KEY403B,,
+KEY502A,,
+KEY502B,,
+KEY601A,,
+KEY603A,,
+KEY701A,,
+KEY802A,,
+KEY803B,,
+KEY901B,,
+KEY902A,,
+KEY903A,,
+KEY903B,,
+L Jd N Sra das Neves II  Mat 24872,0.0,0.0
+L Jd N Sra das Neves II  Mat 24873,0.0,0.0
+L Jd N Sra das Neves II  Mat 24874,0.0,0.0
+L Jd N Sra das Neves II  Mat 24875,0.0,0.0
+L Jd N Sra das Neves II  Mat 24876,0.0,0.0
+L Jd N Sra das Neves II  Mat 24877,0.0,0.0
+L Jd N Sra das Neves II  Mat 24878,0.0,0.0
+L Jd N Sra das Neves II  Mat 24879,0.0,0.0
+L Jd N Sra das Neves II  Mat 24880,0.0,0.0
+L Jd N Sra das Neves II  Mat 24881,0.0,0.0
+L Jd N Sra das Neves II  Mat 24882,0.0,0.0
+L Jd N Sra das Neves II  Mat 24883,0.0,0.0
+L Jd N Sra das Neves II  Mat 24884,0.0,0.0
+L Jd N Sra das Neves II  Mat 24885,0.0,0.0
+L Jd N Sra das Neves II  Mat 24886,0.0,0.0
+L Jd N Sra das Neves II  Mat 24887,0.0,0.0
+L'Essence Energie 1003,,
+L'Essence Energie 2201,,
+L'Essence Energie 501,,
+L'Essence Energie 803,,
+L'Essence Energie 903,,
+LA PLAYA FESTMALL - SALA 204,0.0,0.0
+LA PLAYA FESTMALL - SALA 205,0.0,0.0
+LAB 1404,0.25,0.0
+LAV 596 31,,
+LAVANDISCA,0.0,0.0
+LC 393 21,,
+LCM 539 51,,
+LEDM_46F,,
+LEDM_47F,,
+LEDM_48F,,
+LEDM_4A,,
+LEDM_52F,,
+LEDM_54F,,
+LEDM_55F,,
+LEDM_68G,,
+LEDM_72G,,
+LEDM_73G,,
+LEDM_74G,,
+LERME - RANCHO ALEGRE/MT,0.0,0.0
+LFRIT - BOM JESUS/PI,0.0,0.0
+LIBERDADE,0.0,0.0
+LIBERDADE PEDROSO,0.0,0.0
+LINS1,0.0,0.0
+LIS 71 92,,
+LJ CAMPO GRA,0.0,0.0
+LJ COLATINA,0.0,0.0
+LJ COM JOAO DE OLIVEIRA REMIAO,0.0,1.0
+LJ LARANJEIR,0.0,0.0
+LJ PRIN. ISA,0.0,0.0
+LO 1706 72,,
+LO 280 34,,
+LO 853 102B,,
+LO 853 22A,,
+LO 853 23B,,
+LOG GOIANIA,0.0,0.0
+LOG Gaiolli,0.0,0.0
+LOG Goiânia,0.03,0.0
+LOG I,0.0,0.0
+LOG I CONTAGEM,0.0,0.0
+LOG Rio Campo Grande,0.0,0.0
+LOG VIANA,0.0,0.0
+LOG Viana,0.0,0.0
+LOJA,0.0,0.0
+LOJA 1,0.0,0.0
+LOJA 12,0.0,0.0
+LOJA 14,0.0,0.0
+LOJA 17,0.0,0.0
+LOJA 18,0.0,0.0
+LOJA 2,0.0,0.0
+LOJA 20,0.0,0.0
+LOJA 23,0.0,0.0
+LOJA 25,0.0,0.0
+LOJA 26,0.0,0.0
+LOJA 27,0.0,0.0
+LOJA 28,0.0,0.0
+LOJA 30,0.0,0.0
+LOJA 33,0.0,0.0
+LOJA 35,0.0,0.0
+LOJA 36,0.0,0.0
+LOJA 38,0.0,0.0
+LOJA 44,0.0,0.0
+LOJA 46,0.0,0.0
+LOJA 47,0.0,0.0
+LOJA 48,0.0,0.0
+LOJA 49,0.0,0.0
+LOJA 50,0.0,0.0
+LOJA 52,0.0,0.0
+LOJA 53,0.0,0.0
+LOJA 58,0.0,0.0
+LOJA 64,0.0,0.0
+LOJA 65,0.0,0.0
+LOJA 66,0.0,0.0
+LOJA 67,0.0,0.0
+LOJA 7,0.0,0.0
+LOQ 244 805,,
+LOTE X44690,,
+LPRIORI,,
+LUM 274 21,,
+LUMIERE_75143,,
+LUMIERE_75146,,
+LUMIERE_75152,,
+LUMIERE_75160,,
+LUMIERE_75164,,
+LUMIERE_75168,,
+LUMIERE_75182,,
+LUMIERE_75188,,
+LUMIERE_75191,,
+Laboratório de Fluidos,,
+Lages - SC,0.0,0.0
+Lagoa Seca  Mat 240,0.0,0.0
+Lagoa Seca  Mat 378,0.0,0.0
+Laje Corporativa,,
+Laranjeira dos Gomes  Mat 6676,0.0,0.0
+Largo de Santa Rita,0.25,0.0
+Lavandisca,0.0,0.0
+Leader Catete,0.4,0.0
+Leader Natal,0.4,0.0
+Leader Nova Iguaçu,0.5,0.0
+Leblon,0.0,0.0
+Leme,0.0,0.0
+Libero loja,0.12,0.0
+Limoal  Mat 388,0.0,0.0
+Limoal  Mat 5744,0.0,0.0
+Limoal  Mat 843,0.0,0.0
+Lindoia,0.08,0.04
+Linhares- ES,0.0,0.0
+Log Goiania,0.1,0.0
+Loja - Centro BH,0.0,0.0
+Loja - Centro Bh,0.0,0.0
+Loja - Centro Campinas,0.0,0.0
+Loja - Centro E Call Center,0.0,0.0
+Loja - Centro SP,0.0,0.0
+Loja - Centro São Luiz,0.0,0.0
+Loja - Copacabana,0.0,0.0
+Loja - Del Rey BH,0.0,0.0
+Loja - Del Rey Bh,0.0,0.0
+Loja - Duque De Caxias,0.0,0.0
+Loja - Nova Iguaçu,0.0,0.0
+Loja - Ouvidor,0.0,0.0
+Loja - Recife,0.0,0.0
+Loja - Shopping  Iguatemi RJ,0.0,0.0
+Loja - Shopping  Iguatemi Rj,0.0,0.0
+Loja - Shopping Abc,0.0,0.0
+Loja - Shopping Barra Salvador,0.0,0.0
+Loja - Shopping Center Piedade,0.0,0.0
+Loja - Shopping Curitiba,0.0,0.0
+Loja - Shopping Goiânia,0.0,0.0
+Loja - Shopping Iguatemi,0.0,0.0
+Loja - Shopping Iguatemi Fortal,0.0,0.0
+Loja - Shopping Maceió,0.0,0.0
+Loja - Shopping Minas,0.0,0.0
+Loja - Shopping Niterói,0.0,0.0
+Loja - Shopping Norte,0.0,0.0
+Loja - Shopping Pátio Belém,0.0,0.0
+Loja - Shopping Pátio Brasil,0.0,0.0
+Loja - Tijuca,0.0,0.0
+Loja - Vitória,0.0,0.0
+Loja 1,0.0,0.0
+Loja 10,0.0,0.0
+Loja 101 - Cond. NHS,0.0,0.0
+"Loja 101 ao 106, 110 e 112 - Smart Mall TNCG",0.0,0.0
+Loja 102 - Cond. NHS,,
+Loja 103 - Cond. NHS,,
+Loja 104 - Cond. NHS,,
+Loja 105 - Cond. NHS,,
+Loja 106 - Cond. NHS,,
+Loja 107 - Cond. NHS,0.0,0.0
+"Loja 107 ao 109, 111, 113 ao 134 - Cond. Coml. TNCG",,
+Loja 11,0.0,0.0
+Loja 12,0.0,0.0
+Loja 13,0.0,0.0
+Loja 14,0.0,0.0
+Loja 15,0.0,0.0
+Loja 16,0.0,0.0
+Loja 17,0.0,0.0
+Loja 18,0.0,0.0
+Loja 19,0.0,0.0
+Loja 2,0.0,0.0
+Loja 20,0.0,0.0
+Loja 21,0.0,0.0
+Loja 22,0.0,0.0
+Loja 23,0.0,0.0
+Loja 24,0.0,0.0
+Loja 25,0.0,0.0
+Loja 26,0.0,0.0
+Loja 27,0.0,0.0
+Loja 28,0.0,0.0
+Loja 29,0.0,0.0
+Loja 3,0.0,0.0
+Loja 30,0.0,0.0
+Loja 31,0.0,0.0
+Loja 32,0.0,0.0
+Loja 33,0.0,0.0
+Loja 34,0.0,0.0
+Loja 35,0.0,0.0
+Loja 36,0.0,0.0
+Loja 37,0.0,0.0
+Loja 38,0.0,0.0
+Loja 39,0.0,0.0
+Loja 4,0.0,0.0
+Loja 40,0.0,0.0
+Loja 41,0.0,0.0
+Loja 42,0.0,0.0
+Loja 43,0.0,0.0
+Loja 44,0.25,0.0
+Loja 45,0.0,0.0
+Loja 46,0.0,0.0
+Loja 47,0.0,0.0
+Loja 48,0.0,0.0
+Loja 49,0.0,0.0
+Loja 5,0.0,0.0
+Loja 50,0.0,0.0
+Loja 51,0.0,0.0
+Loja 52,0.0,0.0
+Loja 53,0.0,0.0
+Loja 54,0.0,0.0
+Loja 55,0.25,0.0
+Loja 56,0.0,0.0
+Loja 57,0.0,0.0
+Loja 58,0.0,0.0
+Loja 59,0.0,0.0
+Loja 6,0.5,0.0
+Loja 60,0.0,0.0
+Loja 61,0.0,0.0
+Loja 62,0.0,0.0
+Loja 63,0.0,0.0
+Loja 64,0.0,0.0
+Loja 65,0.0,0.0
+Loja 66,0.0,0.0
+Loja 67,0.0,0.0
+Loja 68,0.0,0.0
+Loja 69,0.0,0.0
+Loja 7,0.0,0.0
+Loja 70,0.0,0.0
+Loja 71,0.0,0.0
+Loja 72,0.0,0.0
+Loja 73,0.0,0.0
+Loja 74,0.33,0.0
+Loja 8,0.0,0.0
+Loja 9,0.0,0.0
+Loja Comercial,0.0,0.0
+Loja Dengo,0.0,0.0
+Loja Ipanema,0.0,0.0
+Loja Unique,0.0,0.0
+Loja e salas comerciais,0.21,0.0
+Loja para uso comercial,0.25,0.0
+Loja para uso comercial em centro urbano,0.12,0.0
+Lojas Americanas S.A,0.0,0.0
+Lojas Americanas S.A - Belem,0.0,0.0
+Lojas Americanas S.A - Brasilia,0.0,0.0
+Lojas Americanas S.A - Maceio,0.0,0.0
+Lojas Americanas S.A - Nilopolis,0.0,0.0
+Lojas Americanas S.A - Taquatinga,0.0,0.0
+Lojas Americanas S.A - Vitória,0.0,0.0
+Lojas Americanas Uberlândia,0.0,0.0
+Lojas Leader,0.0,0.0
+Londrina Norte Shopping,0.08,0.1
+Lote Terreno Fazenda da Grama,,
+Loteamento Bucovina Lote  C e H,,
+Loteamento Parque Condor Lote A ao G,,
+"Loteramento Chacara das Pedras Lot. 23, 28, 29, 30",,
+Lucas do Rio Verde - MT,0.0,0.0
+Luciana  Mat 37,0.0,0.0
+M MADALENA A,,
+MA 1419 42,,
+MA 781 102,,
+MAC 404 192,,
+MAC 407 301,,
+MAC 417 54,,
+MACEIO 41,0.0,0.0
+MAG-RJ-41879,,
+MAG2_92,,
+MAGAZINE TORRA TORRA LTDA,0.0,0.0
+MAI1_14,,
+MAI2_12,,
+MAI2_13,,
+MAI2_14,,
+MAI2_191,,
+MAI2_22,,
+MAI2_23,,
+MAI2_24,,
+MAI2_32,,
+MAI3_101,,
+MAI3_111,,
+MAI3_113,,
+MAI3_12,,
+MAI3_121,,
+MAI3_122,,
+MAI3_131,,
+MAI3_14,,
+MAI3_142,,
+MAI3_152,,
+MAI3_171,,
+MAI3_181,,
+MAI3_191,,
+MAI3_193,,
+MAI3_22,,
+MAI3_43,,
+MAI3_54,,
+MAI3_64,,
+MAI3_91,,
+MAIG_115,,
+MAIG_119,,
+MAIG_205,,
+MAISON_1,,
+MAISON_7,,
+MAL 791 14,,
+MAN 150 61,,
+MAN 82 71,,
+MANCHESTER 121,0.0,0.0
+MANCHESTER 131,0.0,0.0
+MAO 565 01,,
+MAO 685 91,,
+MARA 339 12,,
+MARA 339 83,,
+MARA 339 91,,
+MARCILIO,0.0,0.0
+MARIBRAS 44,0.0,0.0
+MARILIA,0.0,0.0
+MAT 104.106,0.0,0.0
+MAT 129 162,,
+MAT 344309,0.0,0.0
+MAT 39042,0.0,0.0
+MAT 47255 TE,0.0,0.0
+MAT 48403 TE,0.0,0.0
+MAT 48404 TE,0.0,0.0
+MAT 56.878,0.0,0.0
+MAUA,1.0,0.0
+MBOI MIRIM,0.0,0.0
+MCR-SP-44617,,
+MDX BARRA MEDICAL CENTER,0.0,0.0
+MERCURIO 71,0.0,0.0
+MES 99 22,,
+MES 99 71,,
+MF 220 8,,
+MFG 230 131,,
+MGD 134 91,,
+MGD 420 11,,
+MGD 475 23,,
+MGD 539 22,,
+MGD 657 61,,
+MIN 336 12,,
+MINAS SHOPPING,0.0,0.0
+MJD 633 61,,
+MJMM 28 61B,,
+ML 105 64,,
+MLO 272 A154,,
+MM1  G02 - 1,0.0,0.0
+MM1  G02 - 2,0.0,0.0
+MM1  G02 - 3,0.0,0.0
+MM1  G02 - 4,0.0,0.0
+MM1  G02 - 5,0.0,0.0
+MM1  G02 - 6,0.0,0.0
+MM1  G02 - 7,0.0,0.0
+MM1  G02 - 8,0.0,0.0
+MM1  G02 - 9,0.0,0.0
+MM1  G03 - 1,0.0,0.0
+MM1  G03 - 10,0.0,0.0
+MM1  G03 - 11,0.0,0.0
+MM1  G03 - 2,0.0,0.0
+MM1  G03 - 3,0.0,0.0
+MM1  G03 - 4,0.0,0.0
+MM1  G03 - 5,0.0,0.0
+MM1  G03 - 6,0.0,0.0
+MM1  G03 - 7,0.0,0.0
+MM1  G03 - 8,0.0,0.0
+MM1  G03 - 9,0.0,0.0
+MM1 G09-1,0.0,0.0
+MM1 G09-2,0.0,0.0
+MM1 G09-3,0.0,0.0
+MM1 G09-4,0.0,0.0
+MM1 G15-1,0.0,0.0
+MM2  G01 - 1,0.0,0.0
+MM2  G01 - 10,0.0,0.0
+MM2  G01 - 11,0.0,0.0
+MM2  G01 - 12,0.0,0.0
+MM2  G01 - 13,0.0,0.0
+MM2  G01 - 14,0.0,0.0
+MM2  G01 - 15,0.0,0.0
+MM2  G01 - 16,0.0,0.0
+MM2  G01 - 17,0.0,0.0
+MM2  G01 - 18,0.0,0.0
+MM2  G01 - 19,0.0,0.0
+MM2  G01 - 2,0.0,0.0
+MM2  G01 - 20,0.0,0.0
+MM2  G01 - 21,0.0,0.0
+MM2  G01 - 22,0.0,0.0
+MM2  G01 - 23,0.0,0.0
+MM2  G01 - 24,0.0,0.0
+MM2  G01 - 3,0.0,0.0
+MM2  G01 - 4,0.0,0.0
+MM2  G01 - 5,0.0,0.0
+MM2  G01 - 6,0.0,0.0
+MM2  G01 - 7,0.0,0.0
+MM2  G01 - 8,0.0,0.0
+MM2  G01 - 9,0.0,0.0
+MMT 35 11,,
+MOA 781 32,,
+MOB 31 304,,
+MOINHO IGUAGU AGROINDUSTRIAL,0.0,0.0
+MOINHO IGUAÇU AGROINDUSTRIAL,0.0,0.0
+MONSENHOR CELSO,0.0,0.0
+MONTESE,0.0,0.0
+MORRO GRANDE,0.0,0.0
+MORUMBI,0.0,0.0
+MOT - Morumbi Office Tower,0.0,0.0
+MPR 159 73,,
+MR SHAN BUSINESS OFFICE,0.0,0.04
+MRA 495 51,,
+MRA 523 252,,
+MRA 932 71,,
+MRA 976 62,,
+MSV 67 706,,
+MT 108.774,0.0,0.0
+MTC 50 61,,
+MTC 50 64,,
+Macaé,1.0,0.0
+Macaé (Schahin),0.0,1.0
+Macaé RJ,1.0,0.0
+Maceió Shopping,0.0,0.04
+Mais Shopping,0.06,0.24
+Maison Laranjeiras,,
+Mamoaba  Mat 14319,0.0,0.0
+Mamoaba  Mat 3917,0.0,0.0
+Mamoaba  Mat 563,0.0,0.0
+Mangabeira  Mat 459,0.0,0.0
+Maracujá  Mat 5124,0.0,0.0
+Maracujá  Mat 6386,0.0,0.0
+Marajó  Mat 24891,0.0,0.0
+Marechal Camara,0.14,0.0
+Maria Cândida,0.0,0.0
+"Marquês de Olinda, 51",0.0,0.0
+"Marquês de Olinda, 70",0.0,0.0
+Marselhesa,0.0,0.0
+Master Offices,0.22,0.0
+Mata Marfim  Mat 3,0.0,0.0
+Maxixe  Mat 2212,0.0,0.0
+Meier,0.0,0.0
+Meliá Jardim Europa,0.25,0.0
+"Mem de Sá, 2º Pavimento",0.0,0.0
+"Mem de Sá, 505",0.0,0.0
+"Mem de Sá, Apartamento 303",0.0,0.0
+"Mem de Sá, Loja A",0.0,0.0
+"Mem de Sá, Loja B",0.0,0.0
+Metropolitan,0.0,0.0
+Minas Shop,0.03,0.2
+Miraggio,,
+Miranda  Mat 480,0.0,0.0
+Miranda  Mat 485,0.0,0.0
+Mogi Mirim - SP,0.0,0.0
+Moinhos Shopping,0.4,0.05
+Monte Santo  Mat 842,0.0,0.0
+Montese,0.0,0.0
+Mooca Plaza Shopping - 20%,0.03,0.01
+Morro Grande,0.0,0.0
+Morumbi,0.17,0.0
+Morumbi Corporate Towers,0.08,0.0
+Morumbi Diamond Tower,0.19,0.0
+Multimodal D Caxias,0.23,0.0
+Multimodal D Caxias - Pátio,0.0,0.0
+Mumbaba  P Esperança  Mat 1983,0.0,0.0
+Mundo Novo I  Mat 523,0.0,0.0
+Mundo Novo II  Mat 71,0.0,0.0
+Muniz Barreto,0.29,0.71
+Mutinga,0.0,0.0
+NEWTON P,0.0,0.0
+NFL-RN-15541,,
+NFL-RN-221,,
+NHA 1170 84,,
+NISSEI,0.0,0.0
+NIT-RJ-21385,,
+NITEROI,,
+NLO 23 501,,
+NM_102_6,,
+NM_103_6,,
+NM_107_6,,
+NM_108_6,,
+NM_109_6,,
+NM_10_L,,
+NM_110_2,,
+NM_117_5,,
+NM_118_6,,
+NM_12_L,,
+NM_13_L,,
+NM_14_L,,
+NM_15_L,,
+NM_18_L,,
+NM_209_3,,
+NM_209_5,,
+NM_20_L,,
+NM_210_2,,
+NM_211_6,,
+NM_213_2,,
+NM_213_5,,
+NM_213_6,,
+NM_214_5,,
+NM_215_6,,
+NM_216_6,,
+NM_219_5,,
+NM_21_L,,
+NM_220_6,,
+NM_221_2,,
+NM_221_3,,
+NM_222_2,,
+NM_222_3,,
+NM_223_2,,
+NM_22_L,,
+NM_23_L,,
+NM_27_L,,
+NM_29_L,,
+NM_2_L,,
+NM_302_2,,
+NM_306_6,,
+NM_308_6,,
+NM_309_5,,
+NM_309_6,,
+NM_30_L,,
+NM_310_3,,
+NM_310_5,,
+NM_311_5,,
+NM_312_2,,
+NM_314_3,,
+NM_315_2,,
+NM_316_3,,
+NM_317_5,,
+NM_318_6,,
+NM_319_3,,
+NM_31_L,,
+NM_321_2,,
+NM_321_3,,
+NM_321_5,,
+NM_322_2,,
+NM_323_2,,
+NM_323_3,,
+NM_324_3,,
+NM_32_L,,
+NM_33_L,,
+NM_35_L,,
+NM_36_L,,
+NM_37_L,,
+NM_38_L,,
+NM_3_L,,
+NM_401_2,,
+NM_401_4,,
+NM_402_2,,
+NM_402_4,,
+NM_402_5,,
+NM_403_2,,
+NM_403_3,,
+NM_403_4,,
+NM_404_3,,
+NM_404_4,,
+NM_405_4,,
+NM_406_3,,
+NM_406_4,,
+NM_407_4,,
+NM_408_3,,
+NM_408_4,,
+NM_409_3,,
+NM_409_4,,
+NM_409_5,,
+NM_410_4,,
+NM_410_5,,
+NM_411_4,,
+NM_411_5,,
+NM_412_4,,
+NM_412_5,,
+NM_413_2,,
+NM_413_4,,
+NM_413_6,,
+NM_414_4,,
+NM_415_4,,
+NM_416_4,,
+NM_416_5,,
+NM_417_4,,
+NM_418_4,,
+NM_419_4,,
+NM_420_2,,
+NM_420_4,,
+NM_421_4,,
+NM_422_4,,
+NM_423_4,,
+NM_424_2,,
+NM_4_L,,
+NM_501_1,,
+NM_501_4,,
+NM_502_4,,
+NM_503_4,,
+NM_504_4,,
+NM_505_1,,
+NM_505_4,,
+NM_506_1,,
+NM_506_4,,
+NM_507_1,,
+NM_507_4,,
+NM_508_5,,
+NM_509_1,,
+NM_509_4,,
+NM_510_1,,
+NM_510_4,,
+NM_510_5,,
+NM_511_1,,
+NM_511_4,,
+NM_511_5,,
+NM_512_1,,
+NM_512_4,,
+NM_512_5,,
+NM_513_4,,
+NM_514_4,,
+NM_514_5,,
+NM_515_1,,
+NM_515_2,,
+NM_515_4,,
+NM_515_5,,
+NM_516_1,,
+NM_516_4,,
+NM_517_4,,
+NM_518_1,,
+NM_518_4,,
+NM_519_1,,
+NM_519_4,,
+NM_520_4,,
+NM_521_4,,
+NM_522_4,,
+NM_524_4,,
+NM_5_L,,
+NM_601_1,,
+NM_602_1,,
+NM_603_1,,
+NM_603_5,,
+NM_604_1,,
+NM_604_3,,
+NM_605_5,,
+NM_606_1,,
+NM_606_5,,
+NM_607_1,,
+NM_609_1,,
+NM_609_3,,
+NM_610_1,,
+NM_610_3,,
+NM_611_1,,
+NM_611_3,,
+NM_612_1,,
+NM_612_5,,
+NM_613_3,,
+NM_614_1,,
+NM_615_1,,
+NM_616_1,,
+NM_616_3,,
+NM_617_1,,
+NM_618_1,,
+NM_618_3,,
+NM_619_1,,
+NM_619_5,,
+NM_620_1,,
+NM_621_1,,
+NM_621_3,,
+NM_622_3,,
+NM_623_3,,
+NM_624_1,,
+NM_624_3,,
+NM_6_L,,
+NM_703_5,,
+NM_708_3,,
+NM_708_5,,
+NM_709_2,,
+NM_709_3,,
+NM_709_5,,
+NM_711_3,,
+NM_711_5,,
+NM_712_2,,
+NM_712_5,,
+NM_713_2,,
+NM_713_3,,
+NM_713_5,,
+NM_715_3,,
+NM_716_3,,
+NM_717_3,,
+NM_719_3,,
+NM_720_3,,
+NM_721_2,,
+NM_721_3,,
+NM_723_3,,
+NM_724_3,,
+NM_7_L,,
+NM_801_1,,
+NM_803_1,,
+NM_803_2,,
+NM_804_1,,
+NM_804_2,,
+NM_804_5,,
+NM_805_1,,
+NM_805_2,,
+NM_805_3,,
+NM_806_2,,
+NM_806_3,,
+NM_807_1,,
+NM_807_3,,
+NM_808_1,,
+NM_809_1,,
+NM_809_3,,
+NM_810_1,,
+NM_810_5,,
+NM_812_5,,
+NM_813_3,,
+NM_814_3,,
+NM_815_3,,
+NM_816_3,,
+NM_817_5,,
+NM_822_5,,
+NM_823_1,,
+NM_823_5,,
+NM_824_1,,
+NM_8_L,,
+NM_9_L,,
+NM_D01_1,,
+NOVA CANAA A,,
+NOVA CANTAREIRA,0.0,0.0
+NOVA IGUAÇU,,
+NOVA PAULISTA 726,0.0,0.0
+NP_1010,,
+NP_1011,,
+NP_1014,,
+NP_1015,,
+NP_1016,,
+NP_1017,,
+NP_1101,,
+NP_1111,,
+NP_1115,,
+NP_1201,,
+NP_1202,,
+NP_1203,,
+NP_1208,,
+NP_1215,,
+NP_1216,,
+NP_1217,,
+NP_602,,
+NP_607,,
+NP_608,,
+NP_811,,
+NP_812,,
+NP_815,,
+NP_817,,
+NP_906,,
+NP_907,,
+NP_909,,
+NP_912,,
+NP_913,,
+NYT_08,,
+NYT_09,,
+NYT_1001,,
+NYT_1002,,
+NYT_1003,,
+NYT_1004,,
+NYT_1005,,
+NYT_1006,,
+NYT_1007,,
+NYT_1008,,
+NYT_101,,
+NYT_1012,,
+NYT_1013,,
+NYT_1014,,
+NYT_1015,,
+NYT_103,,
+NYT_104,,
+NYT_1102,,
+NYT_1103,,
+NYT_1104,,
+NYT_1105,,
+NYT_1106,,
+NYT_1107,,
+NYT_1108,,
+NYT_1109,,
+NYT_1116,,
+NYT_1117,,
+NYT_1118,,
+NYT_1120,,
+NYT_1202,,
+NYT_1203,,
+NYT_1204,,
+NYT_1205,,
+NYT_1206,,
+NYT_1208,,
+NYT_1209,,
+NYT_1210,,
+NYT_1211,,
+NYT_1212,,
+NYT_1213,,
+NYT_1216,,
+NYT_1217,,
+NYT_1218,,
+NYT_1219,,
+NYT_1220,,
+NYT_1221,,
+NYT_1303,,
+NYT_1304,,
+NYT_1305,,
+NYT_1308,,
+NYT_1309,,
+NYT_1310,,
+NYT_1313,,
+NYT_1314,,
+NYT_1315,,
+NYT_1407,,
+NYT_1408,,
+NYT_1409,,
+NYT_1410,,
+NYT_1416,,
+NYT_1417,,
+NYT_1418,,
+NYT_1419,,
+NYT_1502,,
+NYT_1503,,
+NYT_1504,,
+NYT_1505,,
+NYT_1506,,
+NYT_1507,,
+NYT_1508,,
+NYT_1509,,
+NYT_1603,,
+NYT_1604,,
+NYT_1605,,
+NYT_1606,,
+NYT_1607,,
+NYT_1608,,
+NYT_1609,,
+NYT_1610,,
+NYT_1611,,
+NYT_1612,,
+NYT_1702,,
+NYT_1703,,
+NYT_1704,,
+NYT_1705,,
+NYT_1714,,
+NYT_1715,,
+NYT_1716,,
+NYT_2002,,
+NYT_2003,,
+NYT_2005,,
+NYT_2006,,
+NYT_2007,,
+NYT_2008,,
+NYT_2012,,
+NYT_2015,,
+NYT_2016,,
+NYT_2017,,
+NYT_2021,,
+NYT_401,,
+NYT_402,,
+NYT_403,,
+NYT_404,,
+NYT_405,,
+NYT_407,,
+NYT_410,,
+NYT_411,,
+NYT_412,,
+NYT_413,,
+NYT_414,,
+NYT_503,,
+NYT_504,,
+NYT_505,,
+NYT_506,,
+NYT_508,,
+NYT_512,,
+NYT_513,,
+NYT_516,,
+NYT_517,,
+NYT_518,,
+NYT_519,,
+NYT_603,,
+NYT_604,,
+NYT_605,,
+NYT_611,,
+NYT_615,,
+NYT_616,,
+NYT_619,,
+NYT_701,,
+NYT_702,,
+NYT_703,,
+NYT_704,,
+NYT_705,,
+NYT_706,,
+NYT_707,,
+NYT_708,,
+NYT_709,,
+NYT_710,,
+NYT_711,,
+NYT_712,,
+NYT_713,,
+NYT_714,,
+NYT_715,,
+NYT_802,,
+NYT_803,,
+NYT_804,,
+NYT_805,,
+NYT_806,,
+NYT_807,,
+NYT_808,,
+NYT_809,,
+NYT_902,,
+NYT_903,,
+NYT_904,,
+NYT_905,,
+NYT_906,,
+NYT_907,,
+NYT_908,,
+NYT_909,,
+NYT_912,,
+NYT_916,,
+NYT_917,,
+NYT_919,,
+NYT_920,,
+Nascença do Piquiri  Mat 1638,0.0,0.0
+Nascença do Piquiri  Mat 459,0.0,0.0
+Nascença do Piquiri  Mat 790,0.0,0.0
+Nascença do Piquiri II  Mat 232,0.0,0.0
+Natal Shopping,0.09,0.2
+"Neolink Office, Mal & Stay",0.0,0.0
+New Space - Cotia,0.0,0.0
+Nobile Paulista Prime,0.5,0.0
+Nobu,1.0,1.0
+Nova Cantareira,0.0,0.0
+Nova Iguaçu,0.25,0.0
+Nova Iguaçu (C&C),0.0,0.0
+Nova Sede Direcional,0.0,0.0
+Novo Horizonte I  Mat 1565,0.0,0.0
+Novotel Curitiba,0.0,0.0
+OBR 75 21,,
+OLGA 201,0.0,0.0
+OSA-SP-30355,,
+OSASCO CORREGO RICO,0.0,0.0
+OTAH 19 302,,
+OUR 115 46,,
+OURO1 - N. SCHWENING/GO,0.0,0.0
+OURO2 - N. SCHWENING/GO,0.0,0.0
+OUVIDOR,0.0,0.0
+Oeste Tower 2001,,
+One Eleven,0.0,0.0
+One Park,0.0,0.0
+Orbit,0.25,0.0
+Osasco,0.0,0.0
+Osasco (B2W e Royality),0.0,0.0
+Oscar Freire 585,0.0,0.0
+Outlet Premium Brasília,0.02,-0.05
+Outlet Premium Rio de Janeiro,0.16,0.03
+Outlet Premium Salvador,0.08,0.06
+Outlet Premium São Paulo,0.03,0.03
+Outros,0.16,0.08
+Ouvidor 107,1.0,0.0
+P CHENG,0.0,0.0
+P Serrota  Mat 3693,0.0,0.0
+P Serrota  Mat 5526,0.0,0.0
+P1002S_3,,
+P1003_2A,,
+P1006_2B,,
+P1006_3,,
+P1009_2A,,
+P1012_3,,
+P1013_2A,,
+P1016_3,,
+P101_2B,,
+P102_2A,,
+P102_LJ,,
+P103_2B,,
+P103_LJ,,
+P104_2A,,
+P104_LJ,,
+P105_2B,,
+P108_2B,,
+P109_2B,,
+P1101N_1,,
+P1102N_1,,
+P1102S_3,,
+P1104_2B,,
+P1109_2A,,
+P1110_3,,
+P1112_3,,
+P1115_3,,
+P117_LJ,,
+P1210_2A,,
+P1210_3,,
+P130_LJ,,
+P1314_2B,,
+P1317_3,,
+P1401_2B,,
+P1408_2A,,
+P1411_2A,,
+P1411_2B,,
+P1412_2A,,
+P1412_3,,
+P1415_2B,,
+P1417_3,,
+P1504_2B,,
+P1506_2A,,
+P1507_2B,,
+P1509_2A,,
+P1606_2B,,
+P1707_2B,,
+P202_3,,
+P203_3,,
+P210_2A,,
+P212_3,,
+P213_3,,
+P214_2B,,
+P214_3,,
+P217_3,,
+P219_3,,
+P307_2A,,
+P310_2B,,
+P311_2A,,
+P312_2A,,
+P316_3,,
+P317_3,,
+P320_3,,
+P401_3,,
+P410_2B,,
+P413_3,,
+P419_3,,
+P512_3,,
+P519_3,,
+P520_3,,
+P605_2A,,
+P611_3,,
+P612_3,,
+P701_2A,,
+P701_3,,
+P702_2A,,
+P703_2A,,
+P705_2A,,
+P710_3,,
+P713_3,,
+P722_3,,
+P810_2A,,
+P810_2B,,
+P811_3,,
+P813_3,,
+P902_3,,
+P916_3,,
+PAI 1003 51,,
+PAIM 420 122,,
+PAJS 530 124,,
+PALAZZO 1102,,
+PALAZZO 309,,
+PALAZZO 310,,
+PALAZZO 402,,
+PALAZZO 403,,
+PALAZZO 404,,
+PALAZZO 503,,
+PALAZZO 504,,
+PALAZZO 505,,
+PALAZZO 506,,
+PALAZZO 711,,
+PALAZZO 712,,
+PALAZZO 713,,
+PALAZZO 714,,
+PALAZZO 715,,
+PALAZZO 719,,
+PALAZZO 720,,
+PALAZZO 801,,
+PALAZZO 802,,
+PALAZZO 803,,
+PALAZZO 805,,
+PALAZZO 807,,
+PALAZZO 808,,
+PALAZZO 813,,
+PALAZZO 815,,
+PAM 33 604,,
+PANAMBY,,
+PANTHE_4,,
+PANTHE_5,,
+PANTHE_6,,
+PANTHE_7,,
+PANTHE_8,,
+PAP 991 21,,
+PARA 115 51,,
+PARADA1,0.0,0.0
+PARALELA,0.0,0.0
+PARQUE PAULISTA,0.0,0.0
+PARQUE SANTOS,0.0,0.0
+PARTLINE LTD - Tecparts,0.0,0.0
+PAS 1777 28,,
+PAUL 23 302,,
+PAULA 22,0.0,0.0
+PAV 113 22,,
+PAV IND IPIRANGA,0.0,0.0
+PDU-MA-6797,,
+PE 167 61,,
+PE 74 91,,
+PE 88 101B,,
+PED 1004 92,,
+PED 271 92,,
+PED 288 201,,
+PED 328 62,,
+PED 372 62,,
+PED 599 50,,
+PENHA,0.0,0.0
+PER 104 121,,
+PFA 639 31,,
+PFP 484 51,,
+PG 1769 63,,
+PI 1184 31,,
+PI 1246 51,,
+PIEM005,0.0,0.0
+PIEM006,0.0,0.0
+PIEM007,0.0,0.0
+PIEM008,0.0,0.0
+PIEM012,0.0,0.0
+PIEM035,0.0,0.0
+PIEM036,0.0,0.0
+PIEM037,0.0,0.0
+PIEM038,0.0,0.0
+PIEM039,0.0,0.0
+PIEM042,1.0,0.0
+PIEM048,0.0,0.0
+PIEM051,0.0,0.0
+PIEM053,0.0,0.0
+PIEM057,0.0,0.0
+PIEM059,0.0,0.0
+PIEM067,0.0,0.0
+PIEM072,0.0,0.0
+PIN 480 95,,
+PIN 519 140,,
+PIN 59 34,,
+PIN 59 44,,
+PINHEIROS,0.0,0.0
+PINHEIROS 2,0.0,0.0
+PIU 1149 31,,
+PJM 109,0.0,0.0
+PJM 494 111,,
+PJM 758 33,,
+PJM 774 21,,
+PLD Cajamar 3300,,
+PLD Cajamar 3400,,
+PLD Cajamar 3500,,
+PLD Cajamar II,0.01,0.12
+PLD Cajamar III,0.0,0.04
+PLD Castelo Branco KM46,0.02,0.04
+PLD Caxias,0.0,0.02
+PLD Dutra SP,0.0,0.01
+PLD Queimados,0.0,0.01
+PLT 205 112,,
+PMO 251 102,,
+PMO 266 102,,
+PMO 699 603,,
+POR-GO-3296,,
+PORAN - SORRISO/MT,0.0,0.0
+PORT. LAGO A,,
+PORTAL,0.0,0.0
+PORTO ALEGRE,,
+PORTO ALEGRE - 7 SET,0.0,0.0
+PP2  Apoio - Escritório,0.0,1.0
+PP2  Apoio - Refeitório,0.0,0.0
+PP2  G03 - 1,0.0,0.0
+PP2  G03 - 2,0.0,0.0
+PP2  G03 - 3,0.0,0.0
+PP2  G03 - 4,0.0,0.0
+PP2  G03 - 5,0.0,0.0
+PP2  G03 - 6,0.0,1.0
+PP2  G03 - 7,0.0,0.0
+PP2  G03 - 8,0.0,0.0
+PP2 G04-1,0.0,1.0
+PP2 G04-2,0.0,1.0
+PP2 G04-3,0.0,1.0
+PP2 G04-4,0.0,1.0
+PP2 G04-5,0.0,1.0
+PP2 G04-6,0.0,1.0
+PP2 G04-7,0.0,1.0
+PQ CULTURAL PAULISTA,0.0,0.0
+PRA 404 53,,
+PRA 404 54,,
+PRCT 515 192,,
+PREDIO INDUSTRIAL - GALPÃO 51,0.0,0.0
+PSO PIRACICABA,0.0,0.0
+PSU-SP-39,,
+PTR 212 51,,
+PUR152,0.5,0.0
+PVE-RN-300,,
+PVE-RN-320,,
+PVE-RN-468,,
+P_101N_1,,
+P_101N_2,,
+P_101N_3,,
+P_101S_1,,
+P_101S_2,,
+P_101S_3,,
+P_102N_2,,
+P_102S_1,,
+P_201N_2,,
+P_201S_3,,
+P_202N_2,,
+P_202S_1,,
+P_202S_3,,
+P_301N_3,,
+P_302N_1,,
+P_302N_2,,
+P_302S_1,,
+P_401S_2,,
+P_501N_1,,
+P_501N_2,,
+P_602S_1,,
+P_801S_1,,
+P_801S_2,,
+P_901N_1,,
+P_901S_2,,
+P_DP10_1,,
+P_DP11_1,,
+P_DP12_1,,
+P_DP13_2,,
+P_DP17_3,,
+P_DP18_3,,
+P_DP19_3,,
+P_DP20_3,,
+P_DP21_3,,
+P_DP22_3,,
+P_DP4_1,,
+P_DP5_1,,
+P_DP7_1,,
+P_DP8_1,,
+P_DP9_1,,
+Pacaembu,0.0,0.0
+Padre Claret,0.0,0.0
+Paes Leme,0.0,0.0
+Pajuçara 131,1.0,0.0
+Pajuçara 175,0.27,0.0
+Palmas,0.0,0.0
+Palmas - TO,0.0,0.0
+Paralela,0.0,0.0
+Paranavaí - PR,0.0,0.0
+Parauapebas- PA,0.0,0.0
+Paraíso  Mat 431,0.0,0.0
+Park Inn by Radisson Berrini,0.67,0.0
+Park Square,,
+Parnamirim  Mat 19238 e 19212,1.0,0.0
+Parobe,0.0,0.0
+Parolin - SP,0.0,0.0
+Parque Cidade Corporate,0.18,0.0
+Parque Dom Pedro Shopping,0.04,0.31
+"Parque Dom Pedro Shopping - 10,53%",0.04,0.08
+"Parque Dom Pedro Shopping - 10,53% de participação",0.04,0.05
+Parque Logístico Osasco,0.0,0.0
+Parque Shopping Barueri,0.09,0.12
+Parque Shopping Belém,0.02,0.02
+Parque Shopping Maia,0.14,0.3
+"Parque Shopping Maia - 36,50%",0.14,0.33
+"Parque Shopping Maia - 36,50% de participação",0.12,0.1
+Parque Shopping Sulacap,0.13,0.01
+Paulista,0.43,0.0
+Paulo Afonso - SENDAS_ASSAI,0.0,0.0
+Pedreira,0.0,0.0
+Pedro Vicente,0.0,0.0
+Pedroso,0.0,0.0
+Penha,0.0,0.0
+Perimetral,1.0,0.0
+Pernambucanas,0.0,0.0
+Pernambucanas Adamantina,0.0,0.0
+Pernambucanas Alfenas,0.0,0.0
+Pernambucanas Amparo,0.0,0.0
+Pernambucanas Apiaí,0.0,0.0
+Pernambucanas Araguari,0.0,0.0
+Pernambucanas Assis Chateaubriand,0.0,0.0
+Pernambucanas Bandeirantes,0.0,0.0
+Pernambucanas Barra Bonita,0.0,0.0
+Pernambucanas Barretos,0.0,0.0
+Pernambucanas Batatais,0.0,0.0
+Pernambucanas Bh - Centro,0.0,0.0
+Pernambucanas Campo Largo,0.0,0.0
+Pernambucanas Capão Bonito,0.0,0.0
+Pernambucanas Carapicuíba,0.0,0.0
+Pernambucanas Carlos De Campos,0.0,0.0
+Pernambucanas Caçador,0.0,0.0
+Pernambucanas Cruzeiro,0.0,0.0
+Pernambucanas Dracena,0.0,0.0
+Pernambucanas Francisco Beltrão,0.0,0.0
+Pernambucanas Garça,0.0,0.0
+Pernambucanas Goioerê,0.0,0.0
+Pernambucanas Guaíra,0.0,0.0
+Pernambucanas Ibiporã,0.0,0.0
+Pernambucanas Itanhaém,0.0,0.0
+Pernambucanas Itapecerica Da Serra,0.0,0.0
+Pernambucanas Itapetininga,0.0,0.0
+Pernambucanas Itapeva,0.0,0.0
+Pernambucanas Itapira,0.0,0.0
+Pernambucanas Itararé,0.0,0.0
+Pernambucanas Ituverava,0.0,0.0
+Pernambucanas Itú,0.0,0.0
+Pernambucanas Ivaiporã,0.0,0.0
+Pernambucanas Jundiaí,0.0,0.0
+Pernambucanas Lapa,0.0,0.0
+Pernambucanas Lins,0.0,0.0
+Pernambucanas Lorena,0.0,0.0
+Pernambucanas Machado,0.0,0.0
+Pernambucanas Marechal Cândido Rondon,0.0,0.0
+Pernambucanas Marília,0.0,0.0
+Pernambucanas Mauá,0.0,0.0
+Pernambucanas Mirandópolis,0.0,0.0
+Pernambucanas Mogi Das Cruzes,0.0,0.0
+Pernambucanas Monte Alto,0.0,0.0
+Pernambucanas Olímpia,0.0,0.0
+Pernambucanas Osasco,0.0,0.0
+Pernambucanas Ourinhos,0.0,0.0
+Pernambucanas Palmas,0.0,0.0
+Pernambucanas Paranaguá,0.0,0.0
+Pernambucanas Passos,0.0,0.0
+Pernambucanas Pato Branco,0.0,0.0
+Pernambucanas Pereira Barreto,0.0,0.0
+Pernambucanas Pindamonhangaba,0.0,0.0
+Pernambucanas Piracicaba,0.0,0.0
+Pernambucanas Poços De Caldas,0.0,0.0
+Pernambucanas Presidente Epitácio,0.0,0.0
+Pernambucanas Ribeirão Preto,0.0,0.0
+Pernambucanas Sete De Setembro,0.0,0.0
+Pernambucanas Sete Quedas,0.0,0.0
+Pernambucanas São José Do Rio Pardo,0.0,0.0
+Pernambucanas São Sebastião Do Paraíso,0.0,0.0
+Pernambucanas Taquarituba,0.0,0.0
+Pernambucanas Tatuí,0.0,0.0
+Pernambucanas Taubaté,0.0,0.0
+Pernambucanas Telêmaco Borba,0.0,0.0
+Pernambucanas Videira,0.0,0.0
+Pernambucanas Votuporanga,0.0,0.0
+Petrolina - PE,0.0,0.0
+Petrópolis,,
+Pib Sumaré,0.0,0.0
+Pilkington,0.0,0.0
+Pirelli,0.0,0.0
+Pirituba,0.0,0.0
+Planalto Paulista,0.0,0.0
+Plaza Sul Shopping,0.08,0.09
+Polo Shopping Indaiatuba,0.12,0.05
+Pompeia,0.0,0.0
+Popocas  Mat 7389,0.0,0.0
+Popocas  Mat 7408,0.0,0.0
+Portal,0.0,0.0
+Portal Auto Shopping,0.0,0.0
+Porto Vida Residencial,,
+Porto Vista,,
+Positivo,0.14,0.08
+Posse - FAZENDA CAMPO,0.0,0.0
+Posse - TERRENO RURAL (AREIA BRANCA),0.0,0.0
+Posse - TERRENO RURAL(AREIA BRANCA),0.0,0.0
+Posto de Combustível,0.0,0.0
+Power Shopping Centerminas,0.39,0.0
+Praia Grande 502,,
+Praça Capital - Bloco 02,1.0,0.0
+Praça Montivideo,0.25,0.0
+Predio,0.0,0.0
+Predio em Sao Bernardo,1.0,0.0
+Premier Blanc 2302,,
+Premier L'Adresse 1100,,
+Premier L'Adresse 2100,,
+Premier L'Adresse 2400,,
+Premier L'Adresse 2700,,
+Premier L'Adresse 2800,,
+Premier L'Adresse 2900,,
+Premier L'Allure 1601,,
+Premier L'Allure 1801,,
+Premier L'Allure 3201,,
+Premier L'Allure 3301,,
+Premier L'Allure 501,,
+Premier Vision 2302,,
+Premier Vision 2702,,
+Premier Vision 2902,,
+Premier Vision 3102,,
+Premier Vision 3202,,
+Premier Vision 3502,,
+Premier Vision 3701,,
+Premier Vision 3801,,
+Premier Vision 3802,,
+Presidente Antonio Carlos,0.63,0.0
+Pri ncesa de Gales,0.0,0.0
+Primeiro Rio  Mat 504,0.0,0.0
+Primeiro Rio  Mat 759,0.0,0.0
+Primeiro de Março,0.9,0.1
+Prudenshopping,0.04,0.05
+Prédio Carlos Gomes,0.25,0.0
+Prédio Dom Pedro,0.25,0.0
+Prédio Santo Amaro,0.0,0.0
+Pullman Ibirapuera,0.0,0.0
+Pátio Belém,0.01,-0.38
+Pátio da Marítima - Torre I,0.29,0.0
+Pátio da Marítima - Torre II,,
+Pátio do Colégio,0.0,0.0
+Pão De Açúcar  Campina,0.0,0.0
+Pão De Açúcar  Df,0.0,0.0
+Pão De Açúcar  Indaiat,0.0,0.0
+Pão De Açúcar  Rib.,0.0,0.0
+Pão De Açúcar  Rib. Preto,0.0,0.0
+Pão De Açúcar  Sant. P,0.0,0.0
+Pão De Açúcar  Scs,0.0,0.0
+Pão De Açúcar  Sjrp,0.0,0.0
+Pão De Açúcar  Sp,0.0,0.0
+Pão De Açúcar  Sto And,0.0,0.0
+Pão De Açúcar  Valinhos,0.0,0.0
+QUA 746 54,,
+QUA 936 32,,
+QUA 936 73,,
+QUA 960 53,,
+QUE 70 102,,
+QUINTINO BOCAIUVA,0.0,0.0
+"Quadra 14, lote 640",,
+Quadra 153 Chacara da Pedra - Lotes de 01 a 12,0.0,0.0
+Quadra 154 lote 14 ao 22 e 24 ao 27,0.0,0.0
+Quadra 155 - LOTES 1 a 5 - Av. Nilo Peçanha 3000  Terreno,0.0,0.0
+Quadra 155 - LOTES 6 a 16 - Av. Nilo Peçanha 3048  Terreno,0.0,0.0
+Quadra 155 - PASSAGEM (nesga de terra),0.0,0.0
+"Quadra A - Lote 1, 2 e 5 - Lot. Parque Condor",0.0,0.0
+Quadra B - Lote 1 - Bucovina,0.0,0.0
+Quarai,0.0,0.0
+Quitaúna,0.0,0.0
+R.1.2.204,,
+R.1.8.109,,
+R.2.1.106,,
+R.2.1.302,,
+R.2.2.106,,
+R.2.2.206,,
+R.2.2.302,,
+R.2.4.107,,
+R.2.5.210,,
+R.2.8.112,,
+R.2.8.209,,
+R.3.1.104,,
+R.3.1.212,,
+R.3.2.209,,
+R.3.2.312,,
+R.3.3.305,,
+R.3.4.311,,
+R.3.5.206,,
+R.3.5.212,,
+R.3.5.312,,
+RA 352 14B,,
+RAJA 201,0.0,0.0
+RAJA 202,0.0,0.0
+RAJA 301,0.0,0.0
+RAJA 601,0.0,0.0
+RAJA 701,0.0,0.0
+RAJA 702,0.0,0.0
+RAJA 801,0.0,0.0
+RB 115,0.59,0.27
+RB 497 152,,
+RCC 70 1009,,
+REAL PARQUE,0.0,0.0
+RECIFE,0.0,0.0
+RECIFE - R. DO IMPE,0.0,0.0
+REN_1003,,
+REN_102,,
+REN_1703,,
+RFF 52 31,,
+RFL 369 92,,
+RGU 108 301,,
+RIBEIRAO PRETO,0.0,0.0
+RICARDO JAFET,0.0,0.0
+RIO - PÇA PIO X,0.0,0.0
+RIO D OURO 401,0.0,0.0
+RIO-CANDELÁIA,0.0,0.0
+RJ-RJ-1126,,
+RJ-RJ-161009,,
+RJ-RJ-344069,,
+RMG 69 101,,
+ROCL 215 13,,
+ROCL 493 151,,
+ROSA E SILVA,0.0,0.0
+ROSALIA 12,0.0,0.0
+ROSE MARTE 12,0.0,0.0
+RP 296 907,,
+RPB 1054 22,,
+RPB 188 21,,
+RPB 319 14,,
+RPB 56 71,,
+RPM 909 11B,,
+RPO 537 61,,
+RRS 294 93,,
+RUA ÁSIA,,
+RW Lanchonetes,0.0,0.0
+RXN 333 122,,
+Rainha Guilhermina,0.59,0.0
+Rancho Vendaval  Mat 220,0.0,0.0
+Rcohavera - Torre D,0.0,0.0
+Real Parque,0.0,0.0
+Recife,0.0,0.0
+Recreio dos Bandeirantes,0.0,0.0
+Residencial os Inconfidentes,,
+Riacho Fundo  Mat 1272,0.0,0.0
+Ribeirão Preto - SP,0.0,0.0
+Ribeirão das Neves,0.22,0.0
+Ricardo Jafet,0.0,0.0
+Rio Branco - AC,0.0,0.0
+Rio Branco 45,0.48,0.43
+Rio Claro,0.0,0.0
+Rio das Ostras CBD_EXTRA_LOJ.1685,0.0,0.0
+RioVerde - GO,0.0,0.0
+Riverside,0.0,0.0
+Rodrigo Silva,1.0,0.0
+Rua Correia Dias,0.0,0.0
+Rua Estela,0.0,0.0
+"Rua Veríssimo do Amaral, 50",0.0,0.0
+Rua dos Timbiras,0.0,0.0
+RÓTULA SALVADOR,0.0,0.0
+Rótula,0.0,0.0
+S BERNARDO DO CAMPO,0.0,0.0
+S Bica  Mat 191,0.0,0.0
+S Eng dos Prazeres  Mat 905,0.0,0.0
+S Francisco  Mat 1439,0.0,0.0
+S Gume  Mat 8,0.0,0.0
+S Jangada  Mat 508,0.0,0.0
+S José  Mat 2615,0.0,0.0
+S Limoal  Mat 217,0.0,0.0
+S Luiz  Mat 440,0.0,0.0
+S Maxixe  Mat 594,0.0,0.0
+S Miguel II  Mat 2133,0.0,0.0
+S Pedro  Mat 24893,0.0,0.0
+S Pedro e Santo Céu  Mat 24896,0.0,0.0
+S Riacho  Mat 6794,0.0,0.0
+S Roque  Mat 2076,0.0,0.0
+S S Francisco  Mat 1769,0.0,0.0
+S S José  Mat 8464,0.0,0.0
+S S João  Mat 3352,0.0,0.0
+S Santa Maria  Mat 636,0.0,0.0
+S Santo Antonio  Mat 164,0.0,0.0
+S Sebastião  Mat 2217,0.0,0.0
+S ou F Macarujá  Mat 5680,0.0,0.0
+SAB 400 1602,,
+SAB 538 101,,
+SAB 563 82,,
+SAB 57 92,,
+SAB 76 102A,,
+SAJ 244 161,,
+SALITRE,0.0,0.0
+SAN 275 113A,,
+SANEA TOCANT,0.0,0.0
+SANT 1126 5,,
+SANTA ROSA 62,0.0,0.0
+SANTANA1,0.0,0.0
+SANTO ANDRÉ,0.0,0.0
+SANTOS,0.0,0.0
+SANTOS PEDREIRA,0.0,0.0
+SAO CAETANO DO SUL,0.0,0.0
+SAR 173 21,,
+SAR 186 82,,
+SBC - CD,0.0,0.0
+SBC - LOJA,0.0,0.0
+SBC TRIPLEX,0.0,0.0
+SBP - Santana Business Park,0.0,0.0
+SBR 538 82,,
+SC 159 11,,
+SC 168 31,,
+SC 401 SQUARE CORPORATE,0.0,0.0
+SCHEF - BIRITICUPU/MA,0.0,0.0
+SCRS - 516 (W3),0.0,0.0
+SEARA ALIMENTOS LTDA.,0.0,0.0
+SEDE I,0.72,0.0
+SELETTOD_158342,,
+SELETTOD_158343,,
+SELETTOD_158345,,
+SELETTOD_158352,,
+SELETTOD_158353,,
+SELETTOD_158357,,
+SELETTOD_158361,,
+SELETTOD_158366,,
+SELETTOD_158367,,
+SELETTOD_158371,,
+SELETTOD_158380,,
+SELETTOD_158382,,
+SELETTOD_158383,,
+SELETTOD_158386,,
+SELETTOD_158387,,
+SELETTOD_158396,,
+SELETTOD_158397,,
+SELETTOS_158404,,
+SELETTOS_158426,,
+SELETTOS_158431,,
+SELETTOS_158438,,
+SER 678 13A,,
+SER 686 121,,
+SERRA NEGRA,0.0,0.0
+SERRINHA 01 E 02,0.0,0.0
+SHC_2_G,,
+SHC_3_G,,
+SHOPPING GRANJA VIANNA,0.13,0.05
+SHOPPING METRO TUCURUVI,0.09,0.16
+SHOPPING PATIO MACEIO,0.0,0.02
+SHOPPING PATIO MACEIO AS,0.01,0.08
+SHOPPING VIA VERDE,0.02,0.08
+SJC,0.0,0.0
+SJP-PR-65771,,
+SLO_1002,,
+SLO_1003,,
+SLO_1004,,
+SLO_1009,,
+SLO_1103,,
+SLO_1107,,
+SLO_1108,,
+SLO_1204,,
+SLO_1205,,
+SLO_1206,,
+SLO_1207,,
+SLO_1208,,
+SLO_1303,,
+SLO_1401,,
+SLO_1402,,
+SLO_1403,,
+SLO_1404,,
+SLO_1406,,
+SLO_1407,,
+SLO_1409,,
+SLO_206,,
+SLO_208,,
+SLO_305,,
+SLO_306,,
+SLO_407,,
+SLO_605,,
+SLO_G005,,
+SLO_G006,,
+SLO_G010,,
+SLO_G013,,
+SLO_G014,,
+SLO_G021,,
+SLO_G025,,
+SLO_G056,,
+SLO_G080,,
+SLO_G081,,
+SLO_G086,,
+SLO_G087,,
+SLO_G096,,
+SLO_G097,,
+SLO_G100,,
+SLO_G103,,
+SLO_G115,,
+SODIMAC - Ribeirão Preto,0.0,0.0
+SOLANGE A,,
+SOLDADO,0.0,0.0
+SOR-SP-46699,,
+SOROCABA,0.0,0.0
+SPA-SP-163106,,
+SSILV_16,,
+SSILV_17,,
+SSILV_22,,
+SSILV_26,,
+SSILV_27,,
+SSILV_30,,
+SSILV_32,,
+SSILV_35,,
+SSILV_40,,
+SSILV_43,,
+SSILV_50,,
+"SUC - nº 101, Térreo Piso Ibirapuera - Shopping Ibirapuera",0.0,0.0
+SUDOESTE,0.0,0.0
+SUPER SHOPPING OSASCO,0.06,0.14
+SUPER VAR E GOV MT,0.0,0.0
+SUPER VAR E GOV RS,0.0,0.0
+SUZANO,0.0,0.0
+SVP 416 14,,
+"Sala 1403, 1404, 1405, 1406 e 1407 - FK C. Office + 5 DU Box",0.0,0.0
+Sala comercial em centro urbano,1.0,0.0
+Sam's Club Atuba,0.0,0.0
+Sam's Club Barigui,0.0,0.0
+Sam's Club Campinas,0.0,0.0
+Sam's Club Granja Viana,0.0,0.0
+Sam's Club Morumbi,0.0,0.0
+Sam's Club Radial Leste,0.0,0.0
+Sam's Club São José dos Campos,0.0,0.0
+Santa Barbara - SP,0.0,0.0
+Santa Cecília,0.0,0.0
+Santa Rosa,0.0,0.0
+Santa Terezinha  Mat 319,0.0,0.0
+Santana Parque Shopping,0.05,0.06
+Santana Parque Shopping - 15%,0.05,0.04
+Santander - Ag. São João - Duque de Caxias,0.0,0.0
+Santander - Ag. URB - S Bernardo do Campo,0.0,0.0
+Santander - Avenidas,0.0,0.0
+Santander - BH - Tiradentes,0.0,0.0
+Santander - Belo Horizonte,0.0,0.0
+Santander - Berrini,0.0,0.0
+Santander - CPD - Volta Redonda - Centro,0.0,0.0
+Santander - Fortaleza,0.0,0.0
+Santander - Fortaleza-Centro,0.0,0.0
+Santander - Juiz de Fora,0.0,0.0
+Santander - Jundiaí,0.0,0.0
+Santander - Liberdade,0.0,0.0
+Santander - Monsenhor Celso-Cap-Pr,0.0,0.0
+Santander - Nova Paulista 726 L 1 A 4,0.0,0.0
+Santander - Ouvidor,0.0,0.0
+Santander - Rio-Candelária,0.0,0.0
+Santander - Santo André,0.0,0.0
+Santander - Santos,0.0,0.0
+Santander - São Gonçalo - Alcântara,0.0,0.0
+Santander - São Gonçalo - Centro,0.0,0.0
+Santander - São Mateus,0.0,0.0
+Santander - URB-Porto Alegre - 7 de Setembro,0.0,0.0
+Santander - URB-Recife - R. do Impe,0.0,0.0
+Santander - URB-Rio - Centro,0.0,0.0
+Santander - URB-Rio - Pça. Pio X,0.0,0.0
+Santander - URB-SP - Cons. Rodr. Alves,0.0,0.0
+Santander - URB-SP - Monções,0.0,0.0
+Santander - URB-Sp-Al.Rib. Preto-Ed. Olivetti,0.0,0.0
+Santander - URB-Sp-Al.Ribeirao Preto-Edificio Olivetti,0.0,0.0
+Santo Amaro,0.0,0.0
+Santo André,0.0,0.0
+Santo Antonio,0.56,0.0
+Santos,0.0,0.0
+Sao Gabriel,0.0,0.0
+Sapiranga,0.0,0.0
+Sapé  Mat 7554,0.0,0.0
+Schahin,0.0,1.0
+Scharlau,0.0,0.0
+Seasons,,
+Sede C&A,0.0,0.0
+Sede Jabaquara,0.0,0.0
+Sede Pinheiros,0.0,0.0
+Senado,0.25,0.0
+Senador Queirós,0.0,0.0
+Senhor dos Passos 107,0.0,0.25
+Sercom Taboão,0.0,0.0
+Serrota  Mat 24890,0.0,0.0
+Serrota  Mat 24895,0.0,0.0
+Serrote de Cima  Mat 25054,0.0,0.0
+Sete de Setembro,0.25,0.5
+Shooping Maceió,0.0,0.0
+Shopping ABC,0.04,0.23
+Shopping Bay Market,0.08,0.19
+Shopping Bento Gonçalves,,
+Shopping Bonsucesso,0.09,0.02
+"Shopping Bonsucesso - 36,50%",0.09,0.18
+"Shopping Bonsucesso - 36,50% de participação",0.08,-0.02
+Shopping Capim Dourado,0.03,0.22
+Shopping Center,0.04,0.07
+Shopping Center Iguatemi Florianópolis,0.06,0.16
+"Shopping Center Penha - 87,5628%",0.06,0.07
+Shopping Center Piedade,0.17,0.26
+Shopping Center Pátio Belém,0.01,0.0
+Shopping Center da Barra,0.0,0.0
+Shopping Cidade Jardim,0.01,0.15
+Shopping Cidade São Paulo,0.03,0.02
+Shopping Contagem,0.09,0.22
+Shopping Crystal,0.12,0.24
+Shopping Eldorado,0.02,0.11
+Shopping Germânia,,
+Shopping Granja Vianna,0.1,0.09
+Shopping Hortolândia,0.04,0.15
+Shopping Iguatemi Fortaleza,0.04,0.02
+Shopping Internacional Guarulhos,0.01,0.25
+Shopping Jardim Sul,0.04,0.05
+Shopping Lajeado,0.38,0.24
+Shopping Light,0.04,0.19
+Shopping Morumbi,0.0,0.0
+Shopping Morumbi Town,0.01,0.26
+Shopping Nova Iguaçu,0.12,0.52
+Shopping Paralela,0.07,0.12
+Shopping Park Lagos,0.05,0.0
+Shopping Park Sul,0.14,0.34
+"Shopping Pelotas (44,44349834% de participação) - Bloco A",0.0,0.0
+Shopping Praia da Costa,0.06,-0.03
+Shopping Praça Rio Grande,0.26,0.13
+"Shopping Praça da Moda - 23,06% de participação",0.03,0.06
+"Shopping Praça da Moça - 23,06%",0.03,0.04
+Shopping Ribeirão,0.03,0.05
+Shopping Sulacap,0.13,0.34
+Shopping Suzano,0.05,0.05
+Shopping Taboão Plaza Outlet,0.56,0.72
+Shopping Tacaruna,0.03,0.09
+Shopping Valinhos,0.2,0.08
+Shopping Villa Lobos - 15%,0.04,0.02
+Shopping Viva,0.0,0.3
+Shopping West Plaza - 30%,0.09,0.04
+Shopping West Plaza - 30% de participação,0.11,0.04
+Shopping West Plaza - 70%,0.09,0.04
+Shopping Xangri-Lá,,
+Sigma Mall,0.0,0.0
+Silo Assai,0.0,0.0
+Silo Bela Vista do Paraiso,0.0,0.0
+Silo Cambe,0.0,0.0
+Silo Campo Ere,0.0,0.0
+Silo Sabaudia,0.0,0.0
+Sinop - MT,0.0,0.0
+Somos Sistema de Ensino S.A.,0.0,0.0
+Sorocaba,0.0,0.0
+Sorocaba - SP,0.0,0.0
+Sossêgo  Mat 24901,0.0,0.0
+Sossêgo  Mat 8278,0.0,0.0
+Souza Cruz - Cachoeirinha/RS,0.0,0.0
+Standard Building,0.0,0.0
+Staybridge Suites São Paulo,0.5,0.0
+Sucupira,0.4,0.0
+Sudoeste - Brasília,0.0,0.0
+Sumaré,0.0,0.0
+Sumauma Park Shopping,0.22,0.0
+Summit Pinheiros,1.0,0.0
+Suzano Shopping - 15%,0.05,0.12
+Syslog SP,,
+SÃO CAETANO,0.0,0.0
+SÃO GONÇALO - ALC,0.0,0.0
+SÃO GONÇALO - CENT,0.0,0.0
+SÃO MATEUS,0.0,0.0
+SÓCRATES,0.0,0.0
+São Bernardo Plaza Shopping - 35%,0.06,0.02
+São Caetano,0.0,0.0
+São Gonçalo,0.0,0.0
+São Joaquim,1.0,0.0
+São José,0.38,0.0
+São José - SC,0.0,0.0
+São José dos Campos - SP,0.0,0.0
+São Luis,0.0,0.0
+São Mateus,0.0,0.0
+São Miguel Paulista,0.0,0.0
+São Paulo Corporate Towers,0.0,0.0
+São Pedro,0.0,0.0
+São Pedro da Aldeia,0.25,0.0
+São Pedro da Aldeia - RJ,0.0,0.0
+Sítio Anacé  Mat 831,0.0,0.0
+Sítio Piracicaba,0.0,0.0
+Sócrates,0.0,0.0
+TAB 133 33,,
+TAB 1666 101,,
+TAB 1666 42,,
+TAB 281 92,,
+TAB 452 73,,
+TABOÃO DA SERRA,0.0,0.0
+TAGUAIBA,1.0,0.0
+TAGUATINGA,0.0,0.0
+TAR_1003,,
+TAR_103,,
+TAR_105,,
+TAR_1105,,
+TAR_1505,,
+TAR_1603,,
+TAR_1703,,
+TAR_1704,,
+TAR_1705,,
+TAR_307,,
+TAR_805,,
+TAR_903,,
+TAT 95 21,,
+TC 1033 301B,,
+TC 1033 402,,
+TC 204 101,,
+TC 362 61,,
+TCO 444 208,,
+TEENÁ,0.0,0.0
+TEODORO,0.0,0.0
+TER RIBEIRÃO PRETO,0.0,0.0
+TER VITÓRIA SANTO ANTÃO,0.0,0.0
+TER101_1,,
+TER102_1,,
+TER104_1,,
+TER202_1,,
+TER401_1,,
+TIE 471 103,,
+TIT 450 133,,
+TNL 372 81,,
+TODIMO,0.0,0.0
+TOM 880 151,,
+TON 482 132,,
+TON 68 901,,
+TORRES DO JARDIM I - Torre 1 - unid 23,,
+TORRES DO JARDIM I - Torre 1 - unid 25,,
+TORRES DO JARDIM I - Torre 2 - unid 1,,
+TORRES DO JARDIM I - Torre 3 - unid 12,,
+TORRES DO JARDIM I - Torre 3 - unid 2,,
+TORRES DO JARDIM III - Torre 1 - unid 2,,
+TORRES DO JARDIM III - Torre 1 - unid 32,,
+TORRES DO JARDIM III - Torre 3 - unid 32,,
+TPA Empreendimentos,0.0,0.0
+TPI 251 42,,
+TPS 168 62,,
+TRA951,1.0,0.0
+TREND HIGIENÓPOLIS-UNID-2204,,
+TU 523 51,,
+TU 536 53,,
+TU 603 24,,
+TUB11627,0.5,0.0
+TUI 693 61,,
+TUITU 604,0.0,0.0
+TURANDOT 610,0.0,0.0
+Taboão da Serra,0.0,0.0
+Tabuleirinho  Mat 2179,0.0,0.0
+Taguatinga,0.0,0.0
+Tancredo Neves,0.0,0.0
+Taquari,0.0,0.0
+Tatuapé,0.0,0.0
+Taubaté,0.0,0.0
+Telha Norte,0.0,0.0
+Teodoro Sampaio,0.0,0.0
+Teofilo Otoni 24,0.75,0.0
+Teresina - CBD_EXTRA_LOJ.1300,0.0,0.0
+Teresina - CBD_PDA,0.0,0.0
+Terminal Integrador de Santa Luzia,0.0,0.0
+Terreno,,
+Terreno - Lote 10 - Quinta da Baroneza,,
+Terreno - Lote 11 - Quinta da Baroneza,,
+Terreno Baixa de Areia,0.0,0.0
+Terreno Capotuna,,
+"Terreno Quadra 14, Lote 631 - Nilo Peçanha esquina Myrin",0.0,0.0
+Terreno Quadra G (Germania),,
+Terreno Quadra G (Plantão),,
+Terreno Urbano Condomínio Golf Boutique,,
+Tetra Pak Monte Mor,0.0,0.0
+The Cittyplex Osasco,0.0,0.0
+The Gallery,,
+Thera Coporate,0.13,0.0
+Tijuca All Ways,,
+Tivoli Shopping - 59%,0.04,0.09
+Top Center,0.03,0.16
+Torre Almirante,0.78,0.0
+Torre Martiniano,0.95,0.0
+Torre Oeste,0.0,0.0
+Torre Rio Sul,0.0,0.0
+Torre Sigma,0.0,0.0
+Torre de Elevadores - Interlagos - SP,0.0,0.0
+Totvs,0.0,0.0
+Touch,,
+Tower Bridge,0.06,0.0
+Travessa do Ouvidor,0.0,0.0
+Tryp Berrini,0.0,0.0
+Tryp Iguatemi,0.5,0.0
+Tryp Paulista,0.0,0.0
+Três Lagoas - MS,0.0,0.0
+UMB80,0.5,0.0
+UNIMED - Unimed Itu/Salto Cooperativa Médica,,
+URB-RIO - CENTRO,0.0,0.0
+URB-SP - MONÇÕES,0.0,0.0
+URI 111 11,,
+URI 111 31,,
+URI 171 21,,
+Umuarama - PR,0.0,0.0
+Unid 03 do Edifício Brahms do Condomínio Barão de Mauá,0.0,0.0
+Unid 04 do Edifício Cristal do Condomínio Atibaia,0.0,0.0
+Unid 05 do Edifício Mozart do Condomínio Barão de Mauá,0.0,0.0
+Unid 06 do Edifício Cristal do Condomínio Atibaia,0.0,0.0
+Unid 06 do Edifício Mozart do Condomínio Barão de Mauá,0.0,0.0
+Unid 07 do Edifício Mozart do Condomínio Barão de Mauá,0.0,0.0
+Unid 08 do Edifício Mozart do Condomínio Barão de Mauá,0.0,0.0
+Unid 09 do Edifício Mozart do Condomínio Barão de Mauá,0.5,0.0
+Unid 15 do Edifício Bach do Condomínio Barão de Mauá,0.0,0.0
+Unid 15 do Edifício Matisse do Condomínio Barão de Mauá,0.75,0.0
+Unid 15 do Edifício Topázio do Condomínio Atibaia,0.0,0.0
+Unid 16 do Edifício Matisse do Condomínio Barão de Mauá,0.0,0.0
+Unid 16 do Edifício Topázio do Condomínio Atibaia,0.0,0.0
+Unid 17 do Edifício Da Vinci do Condominio Barão de Mauá,0.57,0.0
+Unid 18 do Edifício Da Vinci do Condominio Barão de Mauá,0.0,0.0
+Unid 19 do Edifício Da Vinci do Condominio Barão de Mauá,0.0,0.0
+Unid 2 do Edifício Mozart do Condomínio Atibaia,0.5,0.0
+Unid 20 do Edifício Da Vinci do Condominio Barão de Mauá,0.0,0.0
+Unid 21 do Edifício Da Vinci do Condominio Barão de Mauá,0.0,0.0
+Unid 21 do Edifício Topázio do Condomínio Atibaia,0.0,0.0
+Unid 26 Edifício Michelangelo do Condominio Barão de Mauá,0.0,0.0
+Unid 26 do Edifício Topázio do Condomínio Atibaia,0.0,0.0
+Unid 27 Edificio Wagner do Condominio Barão de Mauá,0.12,0.0
+Unid 28 Edificio Wagner do Condominio Barão de Mauá,0.0,0.0
+Unid 34 Edifício Bach do Condominio Barão de Mauá,0.0,0.0
+Unid 35 do Edifício Bach do Condomínio Barão de Mauá,0.0,0.0
+Unid 39 Edifício Camões do Condominio Barão de Mauá,0.5,0.0
+Unid 4 do Edifício Figueira do Condomínio Gaia,0.25,0.0
+Unid 5 do Edifício Figueira do Condomínio Gaia,0.0,0.0
+Unid 6 do Edifício Figueira do Condomínio Gaia,0.0,0.0
+Unid 7 do Edifício Esmeralda do Condominio Atibaia,0.0,0.0
+Unid 7 do Edifício Figueira do Condomínio Gaia,0.0,0.0
+Unid 8 do Edifício Esmeralda do Condominio Atibaia,0.0,0.0
+Unida 05 do Edifício Cristal do Condomínio Atibaia,0.0,0.0
+Unidade 102,,
+Unidade 103,,
+Unidade 104,,
+Unidade 109,,
+Unidade 201,,
+Unidade 202,,
+Unidade 203,,
+Unidade 204,,
+Unidade 209,,
+Unidade 210,,
+Unidade Assai,0.0,0.0
+Unidade Bela Vista do Paraiso,0.0,0.0
+Unidade Cambe,0.0,0.0
+Unidade Campo Ere,0.0,0.0
+Unidade Fabril localizada no município de Contagem - MG.,0.0,0.0
+Unidade Leme,0.0,0.0
+Unidade Medianeira,0.0,0.0
+Unidade Pato Branco,0.0,0.0
+Unidade Sabaudia,0.0,0.0
+Unidade de Leme,0.0,0.0
+Unidade de Taboao da Serra,0.0,0.0
+Unidade de Valinhos,0.0,0.0
+UnidadeFrancisco Beltrao,0.0,0.0
+Unimart Shopping Campinas,0.18,0.12
+Universidade Petrobras RJ,0.0,0.0
+Universidade de Mogi das Cruzes,0.0,0.0
+Urbic Sabia,,
+Urbic Tomas Alves,,
+"Uruguaiana, 76",0.0,0.0
+"Uruguaiana, 78",0.0,0.0
+V.HOUSE,0.0,0.0
+VA 349 103,,
+VAN 1581 71,,
+VASCO DA GAMA,0.0,0.0
+VER4928,0.25,0.0
+VERS_11,,
+VERS_12,,
+VERS_121,,
+VERS_13,,
+VERS_131,,
+VERS_14,,
+VERS_141,,
+VERS_171,,
+VERS_21,,
+VERS_22,,
+VERS_23,,
+VERS_24,,
+VERS_31,,
+VERS_32,,
+VERS_41,,
+VERS_42,,
+VERS_43,,
+VERS_52,,
+VERS_61,,
+VERS_62,,
+VERS_71,,
+VERS_72,,
+VERS_81,,
+VERS_82,,
+VGR-MT-55043,,
+VGR-MT-55429,,
+VH1003_B,,
+VH1005_B,,
+VH1103_B,,
+VH1105_B,,
+VH1203_B,,
+VH1205_B,,
+VH1303_B,,
+VH1305_B,,
+VH1403_B,,
+VH1405_B,,
+VH1503_B,,
+VH1505_B,,
+VH1603_B,,
+VH1605_B,,
+VH1703_B,,
+VH_1001A,,
+VH_1003A,,
+VH_101_A,,
+VH_102_A,,
+VH_103_A,,
+VH_103_B,,
+VH_104_A,,
+VH_104_B,,
+VH_105_B,,
+VH_1101A,,
+VH_1103A,,
+VH_1201A,,
+VH_1203A,,
+VH_1301A,,
+VH_1303A,,
+VH_1401A,,
+VH_1501A,,
+VH_1701A,,
+VH_201_A,,
+VH_202_A,,
+VH_203_A,,
+VH_204_A,,
+VH_204_B,,
+VH_205_B,,
+VH_301_A,,
+VH_303_A,,
+VH_303_B,,
+VH_306_B,,
+VH_401_A,,
+VH_403_A,,
+VH_403_B,,
+VH_404_A,,
+VH_404_B,,
+VH_405_B,,
+VH_501_A,,
+VH_502_A,,
+VH_503_B,,
+VH_505_B,,
+VH_506_B,,
+VH_601_A,,
+VH_602_A,,
+VH_603_A,,
+VH_603_B,,
+VH_604_B,,
+VH_701_A,,
+VH_703_A,,
+VH_801_A,,
+VH_803_A,,
+VH_804_B,,
+VH_805_B,,
+VH_901_A,,
+VH_902_A,,
+VH_903_A,,
+VH_903_B,,
+VH_905_B,,
+VIANCO,0.0,0.0
+VIAZ 975 13,,
+VIP 174 202,,
+VIR 97 54,,
+VISC1,0.0,0.0
+VOLTA REDONDA-CEN,0.0,0.0
+VP1105A1,,
+VP1406B1,,
+VP_1008A,,
+VP_108A,,
+VP_207B,,
+VP_302B,,
+VP_606B1,,
+VP_902B,,
+Vacaria,0.0,0.0
+Vale Araguari,0.0,0.0
+Vale do Mumbaba  Mat 483,0.0,0.0
+Valparaíso - GO,0.0,0.0
+Vargas,0.86,0.0
+Varzea Cercada  Mat 8277,0.0,0.0
+Vasco da Gama,0.0,0.0
+Venda Nova,0.0,0.0
+Ventura Shopping de Descontos,0.16,0.08
+Via Anchieta,0.0,0.0
+Via Parque Shopping,0.06,0.31
+Vila Ipiranga,0.0,0.0
+Vila Mascote,0.0,0.0
+Vila Olímpia Corporate,0.03,0.0
+Vila Prudente - Mooca,0.0,0.0
+Vila Rio Loja,0.0,0.0
+Vilhena - RO,0.0,0.0
+Villaggio Lake & Gardens,,
+Ville Celestine - Residence Service,,
+Visage Arena 1701,,
+Visage Arena 401,,
+Visage Oeste 1501,,
+Visage Oeste 1504,,
+Visage Oeste 2001,,
+Visage Oeste 201,,
+Visage Oeste 2201,,
+Visage Sudoeste 1401,,
+Visage Sudoeste 2201,,
+Visage Sudoeste 801,,
+Visage Sudoeste 803,,
+Visconde da Luz APTO Nº 51,,
+Visconde de Inhauma,0.0,0.0
+Vision,,
+Vita Corá,0.0,0.0
+Vitória da Conquista - BA,0.0,0.0
+Volkswagen Vinhedo,0.0,0.0
+Várzea Grande - MT,0.0,0.0
+W Tower,0.19,0.0
+WANG E ZHENG LTDA,0.0,0.0
+WT Morumbi,0.23,0.0
+WTORRE JK - TORRE D,0.0,0.0
+WTORRE JK - TORRE E,0.0,0.0
+WTTP2,0.0,0.0
+WTTP2 - WTTP II,0.0,0.0
+Walmart Indianópolis,0.0,0.0
+Walmart Joaquina Ramalho,0.0,0.0
+Walmart São Bernardo,0.0,0.0
+Way Parque das Nações Apto. 103,,
+Way Parque das Nações Apto. 113,,
+Way Parque das Nações Apto. 14,,
+Way Parque das Nações Apto. 171,,
+Way Parque das Nações Apto. 172,,
+Way Parque das Nações Apto. 173,,
+Way Parque das Nações Apto. 22,,
+Way Parque das Nações Apto. 34,,
+Way Parque das Nações Apto. 41,,
+Way Parque das Nações Apto. 44,,
+Way Parque das Nações Apto. 53,,
+Way Parque das Nações Apto. 63,,
+Way Parque das Nações Apto. 64,,
+West Shopping,0.05,0.1
+Whirlpool São Paulo,0.0,0.0
+Wtorre Morumbi,0.02,0.0
+Wyndham Berrini,0.5,0.0
+jundiai Cica,0.0,0.0
+np_606,,
